@@ -1,0 +1,1001 @@
+MAT_ID,MAT_NOME,MAT_QUALIDADE
+1,ferro,primeira linha
+2,borracha,segunda linha
+3,bronze,terceira linha
+4,plastico,terceira linha
+5,ferro,segunda linha
+6,cabo de aço,primeira linha
+7,cabo de aço,terceira linha
+8,metalon,primeira linha
+9,bronze,terceira linha
+10,plastico,segunda linha
+11,fibra de carbono,segunda linha
+12,metalon,segunda linha
+13,plastico,primeira linha
+14,ferro,segunda linha
+15,madeira,terceira linha
+16,plastico,segunda linha
+17,madeira,primeira linha
+18,ferro,segunda linha
+19,bronze,terceira linha
+20,madeira,terceira linha
+21,metalon,segunda linha
+22,bronze,primeira linha
+23,bronze,terceira linha
+24,madeira,segunda linha
+25,borracha,terceira linha
+26,ferro,primeira linha
+27,borracha,terceira linha
+28,fibra de carbono,terceira linha
+29,bronze,terceira linha
+30,cabo de aço,terceira linha
+31,plastico,segunda linha
+32,metalon,primeira linha
+33,ferro,segunda linha
+34,borracha,terceira linha
+35,madeira,primeira linha
+36,borracha,segunda linha
+37,borracha,segunda linha
+38,cabo de aço,primeira linha
+39,metal,segunda linha
+40,plastico,segunda linha
+41,ferro,terceira linha
+42,metal,segunda linha
+43,metalon,terceira linha
+44,cabo de aço,terceira linha
+45,ferro,primeira linha
+46,fibra de carbono,primeira linha
+47,plastico,primeira linha
+48,madeira,segunda linha
+49,borracha,segunda linha
+50,borracha,primeira linha
+51,plastico,segunda linha
+52,plastico,segunda linha
+53,cabo de aço,primeira linha
+54,fibra de carbono,primeira linha
+55,madeira,segunda linha
+56,cabo de aço,segunda linha
+57,metalon,primeira linha
+58,plastico,segunda linha
+59,cabo de aço,segunda linha
+60,metal,segunda linha
+61,fibra de carbono,segunda linha
+62,metalon,terceira linha
+63,metalon,terceira linha
+64,plastico,terceira linha
+65,metalon,terceira linha
+66,ferro,primeira linha
+67,plastico,segunda linha
+68,plastico,primeira linha
+69,cabo de aço,terceira linha
+70,cabo de aço,segunda linha
+71,fibra de carbono,terceira linha
+72,bronze,primeira linha
+73,metalon,primeira linha
+74,cabo de aço,segunda linha
+75,metalon,segunda linha
+76,plastico,primeira linha
+77,bronze,segunda linha
+78,bronze,primeira linha
+79,bronze,primeira linha
+80,bronze,terceira linha
+81,ferro,terceira linha
+82,metal,primeira linha
+83,metal,segunda linha
+84,madeira,segunda linha
+85,borracha,terceira linha
+86,plastico,primeira linha
+87,borracha,primeira linha
+88,ferro,primeira linha
+89,cabo de aço,primeira linha
+90,madeira,segunda linha
+91,madeira,terceira linha
+92,ferro,terceira linha
+93,madeira,terceira linha
+94,fibra de carbono,primeira linha
+95,cabo de aço,terceira linha
+96,metal,terceira linha
+97,metal,primeira linha
+98,cabo de aço,primeira linha
+99,fibra de carbono,segunda linha
+100,fibra de carbono,primeira linha
+101,borracha,primeira linha
+102,plastico,segunda linha
+103,cabo de aço,segunda linha
+104,bronze,terceira linha
+105,cabo de aço,primeira linha
+106,fibra de carbono,primeira linha
+107,bronze,primeira linha
+108,metalon,primeira linha
+109,bronze,terceira linha
+110,plastico,primeira linha
+111,cabo de aço,segunda linha
+112,borracha,segunda linha
+113,cabo de aço,segunda linha
+114,fibra de carbono,terceira linha
+115,bronze,terceira linha
+116,borracha,terceira linha
+117,cabo de aço,segunda linha
+118,cabo de aço,terceira linha
+119,bronze,terceira linha
+120,madeira,primeira linha
+121,bronze,primeira linha
+122,plastico,terceira linha
+123,bronze,primeira linha
+124,fibra de carbono,terceira linha
+125,metal,segunda linha
+126,metalon,terceira linha
+127,plastico,segunda linha
+128,cabo de aço,primeira linha
+129,plastico,segunda linha
+130,cabo de aço,primeira linha
+131,plastico,terceira linha
+132,cabo de aço,segunda linha
+133,bronze,segunda linha
+134,ferro,primeira linha
+135,cabo de aço,primeira linha
+136,borracha,terceira linha
+137,madeira,segunda linha
+138,metalon,terceira linha
+139,cabo de aço,primeira linha
+140,bronze,primeira linha
+141,madeira,segunda linha
+142,plastico,primeira linha
+143,cabo de aço,primeira linha
+144,metalon,segunda linha
+145,cabo de aço,segunda linha
+146,plastico,primeira linha
+147,metal,primeira linha
+148,metal,terceira linha
+149,ferro,primeira linha
+150,plastico,terceira linha
+151,plastico,primeira linha
+152,bronze,segunda linha
+153,metal,segunda linha
+154,bronze,terceira linha
+155,metalon,terceira linha
+156,fibra de carbono,segunda linha
+157,ferro,terceira linha
+158,bronze,primeira linha
+159,ferro,terceira linha
+160,madeira,segunda linha
+161,cabo de aço,terceira linha
+162,borracha,terceira linha
+163,borracha,primeira linha
+164,plastico,segunda linha
+165,plastico,primeira linha
+166,plastico,primeira linha
+167,plastico,terceira linha
+168,borracha,terceira linha
+169,cabo de aço,terceira linha
+170,cabo de aço,segunda linha
+171,borracha,segunda linha
+172,plastico,terceira linha
+173,madeira,terceira linha
+174,fibra de carbono,segunda linha
+175,plastico,primeira linha
+176,madeira,segunda linha
+177,metalon,segunda linha
+178,borracha,terceira linha
+179,borracha,primeira linha
+180,cabo de aço,terceira linha
+181,cabo de aço,primeira linha
+182,bronze,terceira linha
+183,madeira,segunda linha
+184,plastico,terceira linha
+185,fibra de carbono,primeira linha
+186,plastico,terceira linha
+187,metalon,primeira linha
+188,metalon,primeira linha
+189,plastico,segunda linha
+190,bronze,terceira linha
+191,borracha,primeira linha
+192,metal,segunda linha
+193,cabo de aço,segunda linha
+194,cabo de aço,primeira linha
+195,metalon,terceira linha
+196,fibra de carbono,terceira linha
+197,bronze,segunda linha
+198,borracha,segunda linha
+199,madeira,terceira linha
+200,plastico,segunda linha
+201,fibra de carbono,terceira linha
+202,cabo de aço,segunda linha
+203,metalon,segunda linha
+204,fibra de carbono,segunda linha
+205,borracha,terceira linha
+206,fibra de carbono,primeira linha
+207,borracha,segunda linha
+208,borracha,segunda linha
+209,plastico,terceira linha
+210,fibra de carbono,primeira linha
+211,plastico,terceira linha
+212,metalon,terceira linha
+213,plastico,primeira linha
+214,metal,segunda linha
+215,fibra de carbono,primeira linha
+216,plastico,primeira linha
+217,madeira,primeira linha
+218,borracha,terceira linha
+219,madeira,primeira linha
+220,metal,primeira linha
+221,plastico,segunda linha
+222,bronze,segunda linha
+223,cabo de aço,segunda linha
+224,borracha,segunda linha
+225,fibra de carbono,terceira linha
+226,bronze,primeira linha
+227,ferro,segunda linha
+228,madeira,segunda linha
+229,cabo de aço,terceira linha
+230,metalon,primeira linha
+231,ferro,primeira linha
+232,plastico,primeira linha
+233,borracha,terceira linha
+234,metalon,segunda linha
+235,fibra de carbono,segunda linha
+236,madeira,terceira linha
+237,fibra de carbono,segunda linha
+238,metalon,terceira linha
+239,bronze,segunda linha
+240,bronze,segunda linha
+241,borracha,primeira linha
+242,metal,terceira linha
+243,borracha,segunda linha
+244,plastico,segunda linha
+245,plastico,segunda linha
+246,bronze,primeira linha
+247,borracha,primeira linha
+248,metalon,primeira linha
+249,bronze,primeira linha
+250,fibra de carbono,primeira linha
+251,metalon,primeira linha
+252,metal,segunda linha
+253,madeira,primeira linha
+254,bronze,primeira linha
+255,cabo de aço,segunda linha
+256,borracha,segunda linha
+257,plastico,primeira linha
+258,metal,primeira linha
+259,bronze,primeira linha
+260,ferro,segunda linha
+261,ferro,primeira linha
+262,metal,segunda linha
+263,plastico,segunda linha
+264,borracha,segunda linha
+265,metalon,segunda linha
+266,ferro,segunda linha
+267,metalon,terceira linha
+268,metalon,primeira linha
+269,metal,primeira linha
+270,metal,segunda linha
+271,cabo de aço,terceira linha
+272,plastico,segunda linha
+273,madeira,primeira linha
+274,plastico,segunda linha
+275,bronze,segunda linha
+276,metalon,terceira linha
+277,madeira,segunda linha
+278,plastico,primeira linha
+279,metal,primeira linha
+280,metal,segunda linha
+281,borracha,segunda linha
+282,borracha,segunda linha
+283,ferro,terceira linha
+284,metalon,segunda linha
+285,borracha,terceira linha
+286,metalon,segunda linha
+287,metal,primeira linha
+288,metal,segunda linha
+289,ferro,segunda linha
+290,madeira,terceira linha
+291,plastico,terceira linha
+292,fibra de carbono,terceira linha
+293,metalon,primeira linha
+294,madeira,terceira linha
+295,plastico,segunda linha
+296,fibra de carbono,segunda linha
+297,borracha,primeira linha
+298,metal,primeira linha
+299,metalon,terceira linha
+300,madeira,primeira linha
+301,metal,segunda linha
+302,plastico,primeira linha
+303,fibra de carbono,segunda linha
+304,madeira,terceira linha
+305,madeira,terceira linha
+306,bronze,primeira linha
+307,plastico,primeira linha
+308,ferro,primeira linha
+309,metalon,terceira linha
+310,madeira,terceira linha
+311,metalon,primeira linha
+312,cabo de aço,primeira linha
+313,ferro,terceira linha
+314,fibra de carbono,segunda linha
+315,madeira,terceira linha
+316,borracha,primeira linha
+317,borracha,terceira linha
+318,madeira,primeira linha
+319,borracha,segunda linha
+320,metalon,terceira linha
+321,metalon,primeira linha
+322,plastico,primeira linha
+323,cabo de aço,terceira linha
+324,metalon,terceira linha
+325,metalon,primeira linha
+326,cabo de aço,terceira linha
+327,borracha,terceira linha
+328,borracha,segunda linha
+329,madeira,primeira linha
+330,borracha,terceira linha
+331,madeira,terceira linha
+332,plastico,segunda linha
+333,metal,terceira linha
+334,cabo de aço,terceira linha
+335,metal,segunda linha
+336,fibra de carbono,primeira linha
+337,ferro,terceira linha
+338,fibra de carbono,primeira linha
+339,ferro,primeira linha
+340,metal,segunda linha
+341,ferro,segunda linha
+342,metal,primeira linha
+343,plastico,segunda linha
+344,metal,segunda linha
+345,ferro,segunda linha
+346,plastico,terceira linha
+347,metalon,segunda linha
+348,madeira,segunda linha
+349,metal,primeira linha
+350,metal,terceira linha
+351,metalon,segunda linha
+352,bronze,segunda linha
+353,fibra de carbono,primeira linha
+354,metalon,terceira linha
+355,plastico,terceira linha
+356,fibra de carbono,terceira linha
+357,metal,terceira linha
+358,ferro,terceira linha
+359,metalon,terceira linha
+360,ferro,terceira linha
+361,metal,segunda linha
+362,madeira,terceira linha
+363,metalon,primeira linha
+364,cabo de aço,terceira linha
+365,plastico,primeira linha
+366,fibra de carbono,segunda linha
+367,bronze,segunda linha
+368,borracha,terceira linha
+369,ferro,segunda linha
+370,cabo de aço,primeira linha
+371,borracha,primeira linha
+372,ferro,primeira linha
+373,fibra de carbono,terceira linha
+374,plastico,segunda linha
+375,ferro,terceira linha
+376,metalon,segunda linha
+377,ferro,terceira linha
+378,borracha,primeira linha
+379,madeira,segunda linha
+380,plastico,terceira linha
+381,plastico,primeira linha
+382,madeira,primeira linha
+383,plastico,segunda linha
+384,borracha,segunda linha
+385,fibra de carbono,terceira linha
+386,metalon,segunda linha
+387,plastico,terceira linha
+388,metal,terceira linha
+389,borracha,terceira linha
+390,metal,terceira linha
+391,ferro,primeira linha
+392,plastico,segunda linha
+393,fibra de carbono,segunda linha
+394,cabo de aço,primeira linha
+395,cabo de aço,terceira linha
+396,ferro,primeira linha
+397,metalon,primeira linha
+398,plastico,segunda linha
+399,cabo de aço,primeira linha
+400,metal,primeira linha
+401,metal,terceira linha
+402,madeira,segunda linha
+403,borracha,terceira linha
+404,metalon,segunda linha
+405,cabo de aço,primeira linha
+406,cabo de aço,terceira linha
+407,bronze,primeira linha
+408,plastico,terceira linha
+409,madeira,primeira linha
+410,bronze,terceira linha
+411,bronze,terceira linha
+412,bronze,terceira linha
+413,metalon,primeira linha
+414,ferro,segunda linha
+415,fibra de carbono,terceira linha
+416,metal,segunda linha
+417,borracha,segunda linha
+418,cabo de aço,segunda linha
+419,metal,segunda linha
+420,ferro,primeira linha
+421,borracha,terceira linha
+422,madeira,terceira linha
+423,fibra de carbono,segunda linha
+424,metalon,segunda linha
+425,bronze,primeira linha
+426,ferro,terceira linha
+427,bronze,segunda linha
+428,borracha,segunda linha
+429,cabo de aço,primeira linha
+430,fibra de carbono,primeira linha
+431,ferro,segunda linha
+432,madeira,segunda linha
+433,ferro,primeira linha
+434,bronze,primeira linha
+435,fibra de carbono,primeira linha
+436,madeira,primeira linha
+437,plastico,segunda linha
+438,fibra de carbono,segunda linha
+439,ferro,primeira linha
+440,madeira,segunda linha
+441,metal,primeira linha
+442,cabo de aço,terceira linha
+443,madeira,segunda linha
+444,fibra de carbono,segunda linha
+445,metal,primeira linha
+446,borracha,segunda linha
+447,metalon,terceira linha
+448,ferro,segunda linha
+449,fibra de carbono,terceira linha
+450,borracha,primeira linha
+451,bronze,segunda linha
+452,madeira,primeira linha
+453,plastico,terceira linha
+454,metal,terceira linha
+455,ferro,segunda linha
+456,ferro,terceira linha
+457,ferro,terceira linha
+458,metalon,primeira linha
+459,borracha,segunda linha
+460,borracha,segunda linha
+461,metalon,primeira linha
+462,borracha,segunda linha
+463,metalon,terceira linha
+464,borracha,segunda linha
+465,cabo de aço,segunda linha
+466,metalon,primeira linha
+467,metalon,segunda linha
+468,madeira,primeira linha
+469,borracha,segunda linha
+470,borracha,terceira linha
+471,borracha,terceira linha
+472,bronze,terceira linha
+473,ferro,segunda linha
+474,cabo de aço,segunda linha
+475,fibra de carbono,segunda linha
+476,metalon,primeira linha
+477,bronze,segunda linha
+478,ferro,primeira linha
+479,plastico,primeira linha
+480,borracha,terceira linha
+481,metal,primeira linha
+482,madeira,terceira linha
+483,metalon,terceira linha
+484,metal,terceira linha
+485,metal,primeira linha
+486,borracha,terceira linha
+487,cabo de aço,terceira linha
+488,borracha,terceira linha
+489,ferro,terceira linha
+490,borracha,segunda linha
+491,metalon,segunda linha
+492,cabo de aço,segunda linha
+493,cabo de aço,primeira linha
+494,ferro,primeira linha
+495,metalon,primeira linha
+496,ferro,primeira linha
+497,metalon,terceira linha
+498,metal,primeira linha
+499,madeira,segunda linha
+500,metal,segunda linha
+501,fibra de carbono,terceira linha
+502,fibra de carbono,segunda linha
+503,ferro,terceira linha
+504,fibra de carbono,segunda linha
+505,ferro,primeira linha
+506,metal,primeira linha
+507,plastico,terceira linha
+508,ferro,terceira linha
+509,cabo de aço,primeira linha
+510,madeira,terceira linha
+511,metalon,segunda linha
+512,plastico,primeira linha
+513,madeira,segunda linha
+514,madeira,primeira linha
+515,borracha,primeira linha
+516,metalon,primeira linha
+517,cabo de aço,segunda linha
+518,bronze,segunda linha
+519,ferro,segunda linha
+520,fibra de carbono,segunda linha
+521,metal,terceira linha
+522,plastico,segunda linha
+523,ferro,primeira linha
+524,metalon,primeira linha
+525,metal,primeira linha
+526,cabo de aço,segunda linha
+527,cabo de aço,primeira linha
+528,plastico,segunda linha
+529,fibra de carbono,segunda linha
+530,cabo de aço,terceira linha
+531,metal,terceira linha
+532,metalon,primeira linha
+533,borracha,segunda linha
+534,bronze,terceira linha
+535,fibra de carbono,segunda linha
+536,bronze,segunda linha
+537,bronze,terceira linha
+538,bronze,terceira linha
+539,madeira,primeira linha
+540,metalon,primeira linha
+541,borracha,segunda linha
+542,metalon,segunda linha
+543,fibra de carbono,primeira linha
+544,metalon,primeira linha
+545,cabo de aço,primeira linha
+546,plastico,terceira linha
+547,metal,segunda linha
+548,madeira,terceira linha
+549,ferro,primeira linha
+550,metal,terceira linha
+551,ferro,primeira linha
+552,fibra de carbono,terceira linha
+553,cabo de aço,segunda linha
+554,madeira,terceira linha
+555,ferro,terceira linha
+556,cabo de aço,primeira linha
+557,madeira,primeira linha
+558,fibra de carbono,primeira linha
+559,fibra de carbono,primeira linha
+560,metal,segunda linha
+561,ferro,segunda linha
+562,metalon,segunda linha
+563,madeira,terceira linha
+564,fibra de carbono,primeira linha
+565,madeira,terceira linha
+566,plastico,segunda linha
+567,metalon,segunda linha
+568,plastico,terceira linha
+569,plastico,segunda linha
+570,madeira,primeira linha
+571,ferro,terceira linha
+572,cabo de aço,primeira linha
+573,fibra de carbono,primeira linha
+574,fibra de carbono,primeira linha
+575,metalon,primeira linha
+576,ferro,terceira linha
+577,fibra de carbono,terceira linha
+578,cabo de aço,primeira linha
+579,bronze,primeira linha
+580,metalon,segunda linha
+581,cabo de aço,primeira linha
+582,bronze,segunda linha
+583,plastico,terceira linha
+584,metalon,terceira linha
+585,bronze,segunda linha
+586,metalon,primeira linha
+587,ferro,segunda linha
+588,plastico,segunda linha
+589,metalon,primeira linha
+590,plastico,terceira linha
+591,metalon,terceira linha
+592,bronze,primeira linha
+593,fibra de carbono,primeira linha
+594,ferro,segunda linha
+595,fibra de carbono,primeira linha
+596,plastico,segunda linha
+597,ferro,segunda linha
+598,madeira,segunda linha
+599,ferro,segunda linha
+600,fibra de carbono,terceira linha
+601,metal,primeira linha
+602,fibra de carbono,primeira linha
+603,madeira,primeira linha
+604,metalon,primeira linha
+605,cabo de aço,segunda linha
+606,cabo de aço,primeira linha
+607,cabo de aço,terceira linha
+608,borracha,segunda linha
+609,bronze,segunda linha
+610,ferro,terceira linha
+611,fibra de carbono,primeira linha
+612,ferro,segunda linha
+613,bronze,terceira linha
+614,ferro,primeira linha
+615,bronze,segunda linha
+616,cabo de aço,terceira linha
+617,fibra de carbono,primeira linha
+618,madeira,segunda linha
+619,borracha,primeira linha
+620,madeira,primeira linha
+621,ferro,terceira linha
+622,borracha,primeira linha
+623,borracha,terceira linha
+624,borracha,primeira linha
+625,bronze,segunda linha
+626,cabo de aço,primeira linha
+627,bronze,primeira linha
+628,borracha,terceira linha
+629,fibra de carbono,terceira linha
+630,fibra de carbono,segunda linha
+631,metalon,primeira linha
+632,metal,segunda linha
+633,metalon,segunda linha
+634,cabo de aço,segunda linha
+635,fibra de carbono,segunda linha
+636,madeira,primeira linha
+637,cabo de aço,segunda linha
+638,madeira,primeira linha
+639,plastico,terceira linha
+640,fibra de carbono,segunda linha
+641,cabo de aço,terceira linha
+642,metal,terceira linha
+643,plastico,primeira linha
+644,metal,segunda linha
+645,fibra de carbono,primeira linha
+646,bronze,segunda linha
+647,borracha,primeira linha
+648,metal,primeira linha
+649,metal,segunda linha
+650,metalon,primeira linha
+651,bronze,segunda linha
+652,borracha,terceira linha
+653,plastico,segunda linha
+654,fibra de carbono,segunda linha
+655,cabo de aço,terceira linha
+656,borracha,terceira linha
+657,ferro,terceira linha
+658,metalon,segunda linha
+659,bronze,segunda linha
+660,madeira,terceira linha
+661,fibra de carbono,segunda linha
+662,borracha,segunda linha
+663,metal,segunda linha
+664,madeira,primeira linha
+665,cabo de aço,segunda linha
+666,fibra de carbono,segunda linha
+667,madeira,primeira linha
+668,metal,terceira linha
+669,ferro,terceira linha
+670,bronze,primeira linha
+671,fibra de carbono,segunda linha
+672,borracha,terceira linha
+673,bronze,primeira linha
+674,cabo de aço,terceira linha
+675,ferro,primeira linha
+676,metal,terceira linha
+677,cabo de aço,segunda linha
+678,borracha,segunda linha
+679,cabo de aço,terceira linha
+680,plastico,terceira linha
+681,metalon,terceira linha
+682,metalon,terceira linha
+683,fibra de carbono,terceira linha
+684,ferro,primeira linha
+685,plastico,primeira linha
+686,fibra de carbono,primeira linha
+687,plastico,segunda linha
+688,fibra de carbono,terceira linha
+689,plastico,segunda linha
+690,fibra de carbono,segunda linha
+691,plastico,terceira linha
+692,metal,segunda linha
+693,bronze,terceira linha
+694,metal,primeira linha
+695,plastico,segunda linha
+696,fibra de carbono,terceira linha
+697,borracha,segunda linha
+698,borracha,terceira linha
+699,borracha,primeira linha
+700,bronze,primeira linha
+701,metalon,segunda linha
+702,madeira,terceira linha
+703,plastico,segunda linha
+704,borracha,terceira linha
+705,fibra de carbono,terceira linha
+706,madeira,segunda linha
+707,cabo de aço,segunda linha
+708,bronze,primeira linha
+709,fibra de carbono,terceira linha
+710,bronze,primeira linha
+711,bronze,segunda linha
+712,borracha,terceira linha
+713,madeira,primeira linha
+714,cabo de aço,primeira linha
+715,madeira,terceira linha
+716,metalon,primeira linha
+717,bronze,terceira linha
+718,metal,terceira linha
+719,metal,segunda linha
+720,madeira,primeira linha
+721,madeira,segunda linha
+722,metal,terceira linha
+723,ferro,segunda linha
+724,madeira,primeira linha
+725,plastico,segunda linha
+726,fibra de carbono,segunda linha
+727,cabo de aço,terceira linha
+728,cabo de aço,primeira linha
+729,fibra de carbono,terceira linha
+730,bronze,primeira linha
+731,cabo de aço,terceira linha
+732,cabo de aço,terceira linha
+733,bronze,primeira linha
+734,fibra de carbono,primeira linha
+735,fibra de carbono,terceira linha
+736,ferro,primeira linha
+737,madeira,segunda linha
+738,cabo de aço,segunda linha
+739,metalon,segunda linha
+740,bronze,terceira linha
+741,bronze,terceira linha
+742,fibra de carbono,primeira linha
+743,metalon,segunda linha
+744,bronze,segunda linha
+745,fibra de carbono,segunda linha
+746,ferro,terceira linha
+747,plastico,primeira linha
+748,metal,terceira linha
+749,metal,terceira linha
+750,madeira,primeira linha
+751,plastico,primeira linha
+752,bronze,primeira linha
+753,bronze,primeira linha
+754,metalon,segunda linha
+755,cabo de aço,segunda linha
+756,ferro,primeira linha
+757,borracha,primeira linha
+758,metalon,terceira linha
+759,cabo de aço,segunda linha
+760,metal,segunda linha
+761,cabo de aço,segunda linha
+762,cabo de aço,terceira linha
+763,fibra de carbono,primeira linha
+764,madeira,primeira linha
+765,cabo de aço,primeira linha
+766,metal,primeira linha
+767,fibra de carbono,terceira linha
+768,ferro,primeira linha
+769,borracha,segunda linha
+770,fibra de carbono,primeira linha
+771,cabo de aço,primeira linha
+772,bronze,terceira linha
+773,plastico,terceira linha
+774,metalon,segunda linha
+775,fibra de carbono,segunda linha
+776,plastico,terceira linha
+777,metalon,primeira linha
+778,cabo de aço,terceira linha
+779,metal,segunda linha
+780,madeira,primeira linha
+781,madeira,terceira linha
+782,metal,terceira linha
+783,metalon,primeira linha
+784,cabo de aço,terceira linha
+785,madeira,terceira linha
+786,madeira,segunda linha
+787,metalon,segunda linha
+788,madeira,terceira linha
+789,madeira,terceira linha
+790,bronze,segunda linha
+791,bronze,segunda linha
+792,cabo de aço,terceira linha
+793,bronze,segunda linha
+794,cabo de aço,primeira linha
+795,fibra de carbono,segunda linha
+796,ferro,segunda linha
+797,metal,primeira linha
+798,cabo de aço,primeira linha
+799,borracha,segunda linha
+800,ferro,terceira linha
+801,cabo de aço,segunda linha
+802,metal,segunda linha
+803,madeira,terceira linha
+804,ferro,terceira linha
+805,bronze,primeira linha
+806,fibra de carbono,terceira linha
+807,borracha,segunda linha
+808,borracha,terceira linha
+809,fibra de carbono,terceira linha
+810,madeira,terceira linha
+811,plastico,primeira linha
+812,metalon,primeira linha
+813,ferro,primeira linha
+814,ferro,primeira linha
+815,bronze,primeira linha
+816,ferro,terceira linha
+817,madeira,primeira linha
+818,plastico,terceira linha
+819,cabo de aço,segunda linha
+820,plastico,terceira linha
+821,metal,segunda linha
+822,metalon,segunda linha
+823,fibra de carbono,primeira linha
+824,metalon,primeira linha
+825,plastico,segunda linha
+826,fibra de carbono,segunda linha
+827,cabo de aço,segunda linha
+828,metalon,segunda linha
+829,cabo de aço,terceira linha
+830,cabo de aço,primeira linha
+831,madeira,segunda linha
+832,fibra de carbono,segunda linha
+833,madeira,terceira linha
+834,madeira,segunda linha
+835,bronze,terceira linha
+836,madeira,segunda linha
+837,fibra de carbono,terceira linha
+838,cabo de aço,primeira linha
+839,ferro,primeira linha
+840,borracha,primeira linha
+841,borracha,terceira linha
+842,metal,primeira linha
+843,ferro,segunda linha
+844,madeira,segunda linha
+845,fibra de carbono,primeira linha
+846,plastico,primeira linha
+847,metal,segunda linha
+848,cabo de aço,primeira linha
+849,cabo de aço,primeira linha
+850,plastico,primeira linha
+851,metalon,terceira linha
+852,cabo de aço,primeira linha
+853,metalon,terceira linha
+854,fibra de carbono,terceira linha
+855,cabo de aço,segunda linha
+856,plastico,segunda linha
+857,plastico,primeira linha
+858,metalon,primeira linha
+859,plastico,primeira linha
+860,madeira,segunda linha
+861,plastico,terceira linha
+862,ferro,terceira linha
+863,bronze,terceira linha
+864,metalon,segunda linha
+865,cabo de aço,segunda linha
+866,bronze,terceira linha
+867,cabo de aço,segunda linha
+868,madeira,primeira linha
+869,madeira,segunda linha
+870,metal,terceira linha
+871,fibra de carbono,terceira linha
+872,plastico,segunda linha
+873,borracha,segunda linha
+874,madeira,segunda linha
+875,fibra de carbono,segunda linha
+876,borracha,terceira linha
+877,borracha,terceira linha
+878,plastico,segunda linha
+879,metal,segunda linha
+880,metalon,primeira linha
+881,borracha,segunda linha
+882,fibra de carbono,segunda linha
+883,plastico,terceira linha
+884,bronze,primeira linha
+885,bronze,terceira linha
+886,ferro,terceira linha
+887,ferro,terceira linha
+888,borracha,terceira linha
+889,ferro,primeira linha
+890,cabo de aço,terceira linha
+891,fibra de carbono,terceira linha
+892,plastico,segunda linha
+893,cabo de aço,primeira linha
+894,fibra de carbono,segunda linha
+895,borracha,primeira linha
+896,ferro,terceira linha
+897,metalon,primeira linha
+898,borracha,segunda linha
+899,madeira,segunda linha
+900,cabo de aço,primeira linha
+901,fibra de carbono,primeira linha
+902,metal,terceira linha
+903,borracha,primeira linha
+904,bronze,primeira linha
+905,cabo de aço,terceira linha
+906,madeira,terceira linha
+907,metalon,primeira linha
+908,bronze,primeira linha
+909,madeira,segunda linha
+910,borracha,segunda linha
+911,metal,segunda linha
+912,madeira,segunda linha
+913,metal,segunda linha
+914,cabo de aço,segunda linha
+915,metal,terceira linha
+916,metal,primeira linha
+917,fibra de carbono,primeira linha
+918,cabo de aço,terceira linha
+919,metalon,terceira linha
+920,plastico,terceira linha
+921,metalon,segunda linha
+922,fibra de carbono,segunda linha
+923,bronze,primeira linha
+924,madeira,segunda linha
+925,ferro,segunda linha
+926,ferro,primeira linha
+927,borracha,segunda linha
+928,ferro,segunda linha
+929,plastico,segunda linha
+930,cabo de aço,terceira linha
+931,metalon,segunda linha
+932,madeira,primeira linha
+933,fibra de carbono,primeira linha
+934,fibra de carbono,primeira linha
+935,plastico,segunda linha
+936,metalon,primeira linha
+937,metalon,segunda linha
+938,cabo de aço,terceira linha
+939,metal,segunda linha
+940,ferro,primeira linha
+941,madeira,segunda linha
+942,ferro,segunda linha
+943,metalon,primeira linha
+944,metalon,segunda linha
+945,metalon,primeira linha
+946,cabo de aço,segunda linha
+947,madeira,segunda linha
+948,ferro,terceira linha
+949,bronze,primeira linha
+950,metalon,terceira linha
+951,cabo de aço,primeira linha
+952,metalon,primeira linha
+953,metalon,terceira linha
+954,plastico,primeira linha
+955,fibra de carbono,terceira linha
+956,metal,primeira linha
+957,plastico,terceira linha
+958,borracha,segunda linha
+959,metalon,terceira linha
+960,fibra de carbono,segunda linha
+961,metal,segunda linha
+962,ferro,primeira linha
+963,plastico,segunda linha
+964,metal,terceira linha
+965,borracha,segunda linha
+966,borracha,primeira linha
+967,metal,segunda linha
+968,cabo de aço,primeira linha
+969,borracha,primeira linha
+970,plastico,segunda linha
+971,cabo de aço,segunda linha
+972,plastico,primeira linha
+973,cabo de aço,terceira linha
+974,borracha,terceira linha
+975,ferro,primeira linha
+976,fibra de carbono,terceira linha
+977,metalon,terceira linha
+978,metal,primeira linha
+979,cabo de aço,segunda linha
+980,plastico,terceira linha
+981,borracha,segunda linha
+982,cabo de aço,terceira linha
+983,metalon,segunda linha
+984,bronze,primeira linha
+985,madeira,primeira linha
+986,fibra de carbono,primeira linha
+987,borracha,segunda linha
+988,metal,segunda linha
+989,cabo de aço,segunda linha
+990,metalon,segunda linha
+991,ferro,primeira linha
+992,fibra de carbono,segunda linha
+993,ferro,terceira linha
+994,borracha,primeira linha
+995,ferro,primeira linha
+996,cabo de aço,terceira linha
+997,metal,primeira linha
+998,fibra de carbono,terceira linha
+999,fibra de carbono,segunda linha
+1000,fibra de carbono,segunda linha

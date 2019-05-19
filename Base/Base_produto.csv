@@ -1,0 +1,1001 @@
+PRO_ID,PRO_TIPO,PRO_NOME,PRO_CUSTO,PRO_VALOR,MAT_ID
+1,produto final,v2,315.19,46.11,1
+2,prototipo,top edition,186.92,261.15,2
+3,prototipo,etc.,250.04,108.34,3
+4,prototipo,ultra master blaster bike,119.71,187.52,4
+5,produto inacabado,etc.,232.05,69.49,5
+6,produto inacabado,ultra master blaster bike,277.39,314.18,6
+7,produto inacabado,pepper edition,90.51,306.15,7
+8,produto final,top edition,226.99,153.66,8
+9,produto final,bike,139.54,369.72,9
+10,prototipo,ultra master blaster bike,109.09,69.96,10
+11,produto final,pepper edition,191.59,352.12,11
+12,produto inacabado,bike v1,257.21,77.38,12
+13,prototipo,bike v1,313.29,75.80,13
+14,prototipo,etc.,232.10,100.33,14
+15,prototipo,bike v1,33.13,293.98,15
+16,prototipo,bike,81.45,185.36,16
+17,prototipo,ultra master blaster bike,6.32,152.48,17
+18,produto inacabado,etc.,75.96,198.45,18
+19,prototipo,bike v1,317.60,74.22,19
+20,prototipo,ultra master blaster bike,126.85,351.16,20
+21,prototipo,etc.,162.56,247.03,21
+22,produto inacabado,pepper edition,292.29,249.17,22
+23,produto inacabado,v2,59.84,328.65,23
+24,produto final,top edition,2.46,371.25,24
+25,produto inacabado,top edition,119.92,6.70,25
+26,prototipo,top edition,237.14,176.81,26
+27,prototipo,bike v1,156.92,271.07,27
+28,produto inacabado,pepper edition,122.07,231.58,28
+29,produto inacabado,ultra master blaster bike,277.37,89.78,29
+30,produto final,pepper edition,339.08,239.32,30
+31,produto inacabado,etc.,278.80,56.27,31
+32,produto inacabado,pepper edition,301.94,20.69,32
+33,produto inacabado,etc.,38.75,404.72,33
+34,produto final,bike v1,215.41,166.22,34
+35,produto final,etc.,93.55,111.08,35
+36,produto inacabado,bike,66.04,73.55,36
+37,produto final,ultra master blaster bike,326.37,268.87,37
+38,prototipo,etc.,95.24,263.79,38
+39,produto final,top edition,299.09,371.03,39
+40,prototipo,pepper edition,279.37,44.58,40
+41,produto final,pepper edition,270.70,283.93,41
+42,produto final,ultra master blaster bike,24.99,324.55,42
+43,produto inacabado,ultra master blaster bike,206.57,169.41,43
+44,produto final,etc.,100.55,331.16,44
+45,produto final,ultra master blaster bike,243.39,303.62,45
+46,produto final,bike v1,44.38,134.40,46
+47,produto final,top edition,224.36,351.12,47
+48,produto final,bike v1,21.90,431.98,48
+49,produto inacabado,bike,158.55,228.56,49
+50,prototipo,top edition,244.09,97.20,50
+51,produto final,bike v1,303.36,244.15,51
+52,produto final,etc.,329.26,42.83,52
+53,prototipo,etc.,332.67,19.67,53
+54,produto inacabado,etc.,185.23,60.74,54
+55,prototipo,pepper edition,247.77,289.81,55
+56,prototipo,v2,136.33,409.57,56
+57,produto inacabado,bike,190.21,121.48,57
+58,produto final,pepper edition,233.53,441.07,58
+59,prototipo,ultra master blaster bike,21.40,69.19,59
+60,prototipo,bike,158.08,426.34,60
+61,produto inacabado,v2,123.76,322.12,61
+62,produto inacabado,pepper edition,178.96,263.50,62
+63,produto final,v2,139.47,306.80,63
+64,produto inacabado,v2,120.82,10.71,64
+65,produto inacabado,bike,342.10,96.64,65
+66,produto final,bike,157.96,24.98,66
+67,produto final,top edition,248.46,418.25,67
+68,produto inacabado,etc.,112.07,97.48,68
+69,prototipo,pepper edition,118.84,140.53,69
+70,produto final,bike v1,12.88,138.78,70
+71,prototipo,top edition,141.93,171.79,71
+72,prototipo,v2,111.97,140.19,72
+73,produto final,ultra master blaster bike,87.38,361.91,73
+74,produto inacabado,ultra master blaster bike,211.09,203.76,74
+75,prototipo,bike,185.05,225.94,75
+76,produto final,ultra master blaster bike,218.11,43.28,76
+77,produto final,v2,121.67,313.94,77
+78,prototipo,bike,187.25,60.50,78
+79,produto final,pepper edition,338.91,301.16,79
+80,prototipo,bike,311.10,331.76,80
+81,produto inacabado,etc.,12.89,118.54,81
+82,prototipo,bike,153.57,12.43,82
+83,produto inacabado,v2,329.17,228.85,83
+84,produto inacabado,etc.,45.41,436.90,84
+85,produto final,top edition,92.93,114.38,85
+86,prototipo,bike v1,322.39,61.44,86
+87,produto final,top edition,14.68,289.96,87
+88,produto final,pepper edition,22.29,447.52,88
+89,prototipo,v2,158.24,217.11,89
+90,produto final,v2,296.96,437.55,90
+91,prototipo,ultra master blaster bike,317.04,115.10,91
+92,produto inacabado,etc.,322.58,14.45,92
+93,produto inacabado,bike,218.76,137.43,93
+94,produto inacabado,v2,3.07,218.41,94
+95,prototipo,bike,1.18,157.12,95
+96,prototipo,top edition,167.06,352.53,96
+97,produto final,bike,11.81,256.28,97
+98,produto final,top edition,128.26,350.84,98
+99,prototipo,ultra master blaster bike,61.87,322.03,99
+100,prototipo,etc.,313.39,8.23,100
+101,prototipo,etc.,23.46,267.35,101
+102,prototipo,bike v1,318.03,31.41,102
+103,prototipo,ultra master blaster bike,26.46,41.74,103
+104,produto final,bike v1,53.99,359.22,104
+105,produto final,bike v1,260.77,237.55,105
+106,produto final,v2,122.59,81.48,106
+107,produto final,v2,309.94,309.30,107
+108,produto final,bike v1,130.51,80.30,108
+109,produto inacabado,etc.,6.29,28.01,109
+110,produto final,etc.,105.55,153.67,110
+111,produto final,top edition,38.37,425.16,111
+112,produto final,bike,286.57,302.09,112
+113,produto inacabado,ultra master blaster bike,341.43,181.23,113
+114,prototipo,top edition,231.20,259.92,114
+115,produto final,etc.,183.39,410.30,115
+116,prototipo,top edition,103.05,270.52,116
+117,produto final,pepper edition,57.55,340.71,117
+118,produto inacabado,bike,270.43,287.84,118
+119,prototipo,bike,142.44,340.27,119
+120,produto final,ultra master blaster bike,245.88,18.77,120
+121,produto inacabado,etc.,251.70,92.57,121
+122,prototipo,pepper edition,2.75,14.04,122
+123,produto inacabado,bike v1,309.78,365.81,123
+124,produto inacabado,ultra master blaster bike,347.53,121.35,124
+125,produto final,ultra master blaster bike,98.34,373.18,125
+126,produto final,v2,131.14,183.07,126
+127,prototipo,bike,177.97,47.59,127
+128,produto inacabado,ultra master blaster bike,62.82,366.76,128
+129,produto inacabado,top edition,185.62,173.46,129
+130,prototipo,bike,87.76,158.34,130
+131,prototipo,v2,278.52,432.47,131
+132,prototipo,bike v1,184.27,292.97,132
+133,produto inacabado,top edition,23.44,415.82,133
+134,produto inacabado,ultra master blaster bike,319.44,135.24,134
+135,produto final,etc.,321.16,432.51,135
+136,prototipo,etc.,29.24,360.50,136
+137,prototipo,etc.,106.09,188.29,137
+138,produto final,bike,327.53,38.02,138
+139,produto final,bike,210.53,424.94,139
+140,produto inacabado,bike,82.86,218.25,140
+141,produto final,v2,259.08,395.04,141
+142,produto inacabado,bike,7.63,172.85,142
+143,produto final,top edition,274.35,227.05,143
+144,produto inacabado,top edition,244.51,224.25,144
+145,prototipo,etc.,135.63,444.01,145
+146,produto final,top edition,323.81,300.85,146
+147,prototipo,bike v1,111.91,288.29,147
+148,prototipo,v2,303.96,89.51,148
+149,prototipo,bike v1,1.54,176.58,149
+150,produto final,bike v1,229.21,368.42,150
+151,produto inacabado,v2,337.58,139.50,151
+152,produto inacabado,ultra master blaster bike,118.17,114.46,152
+153,prototipo,ultra master blaster bike,339.06,405.66,153
+154,produto final,ultra master blaster bike,236.91,323.93,154
+155,prototipo,bike,322.11,442.74,155
+156,produto final,v2,348.99,236.47,156
+157,prototipo,bike v1,288.40,174.00,157
+158,produto final,bike,302.91,435.38,158
+159,prototipo,pepper edition,118.22,93.78,159
+160,produto final,pepper edition,169.66,352.23,160
+161,prototipo,top edition,322.74,58.74,161
+162,prototipo,ultra master blaster bike,263.70,298.07,162
+163,prototipo,bike v1,295.14,329.36,163
+164,produto inacabado,bike v1,184.40,89.81,164
+165,produto inacabado,bike v1,55.40,33.34,165
+166,produto inacabado,bike v1,164.29,159.53,166
+167,prototipo,bike v1,302.77,101.94,167
+168,produto inacabado,bike,154.30,86.21,168
+169,produto inacabado,pepper edition,149.37,288.95,169
+170,prototipo,ultra master blaster bike,170.41,364.64,170
+171,produto inacabado,pepper edition,74.71,151.53,171
+172,produto final,pepper edition,187.41,349.02,172
+173,prototipo,bike,83.13,422.99,173
+174,prototipo,etc.,138.21,190.80,174
+175,produto final,bike v1,229.94,154.64,175
+176,prototipo,bike v1,312.78,114.69,176
+177,produto inacabado,etc.,6.52,301.97,177
+178,produto inacabado,ultra master blaster bike,142.49,358.05,178
+179,produto inacabado,bike,152.05,360.07,179
+180,produto inacabado,bike v1,164.17,326.54,180
+181,prototipo,v2,120.59,186.76,181
+182,prototipo,v2,249.63,237.92,182
+183,prototipo,bike,150.26,103.91,183
+184,prototipo,ultra master blaster bike,235.68,358.90,184
+185,prototipo,top edition,70.34,400.37,185
+186,produto final,bike,311.29,311.14,186
+187,produto final,top edition,145.68,183.66,187
+188,produto final,v2,230.34,228.49,188
+189,produto inacabado,pepper edition,268.63,311.47,189
+190,produto final,bike,81.04,132.42,190
+191,produto inacabado,v2,98.28,195.51,191
+192,produto inacabado,bike,240.43,161.25,192
+193,prototipo,top edition,33.94,371.84,193
+194,prototipo,bike v1,329.83,139.32,194
+195,produto final,pepper edition,194.95,186.60,195
+196,produto final,v2,135.62,188.54,196
+197,produto inacabado,v2,144.36,193.20,197
+198,produto inacabado,etc.,76.49,249.28,198
+199,produto final,top edition,204.37,61.50,199
+200,produto inacabado,bike v1,230.72,121.54,200
+201,produto final,top edition,17.43,357.18,201
+202,produto inacabado,ultra master blaster bike,30.28,261.47,202
+203,produto final,bike,71.40,419.64,203
+204,prototipo,bike v1,244.50,442.80,204
+205,produto inacabado,bike v1,290.53,113.57,205
+206,produto inacabado,bike v1,326.67,239.56,206
+207,prototipo,ultra master blaster bike,67.64,20.24,207
+208,prototipo,pepper edition,212.34,3.50,208
+209,produto inacabado,bike v1,203.54,68.10,209
+210,produto final,v2,64.40,83.19,210
+211,produto inacabado,bike,93.52,175.46,211
+212,produto inacabado,pepper edition,59.36,8.10,212
+213,produto final,bike v1,210.57,112.18,213
+214,prototipo,bike v1,320.28,200.59,214
+215,prototipo,bike v1,133.01,18.82,215
+216,produto final,etc.,187.12,348.22,216
+217,produto inacabado,ultra master blaster bike,173.31,306.96,217
+218,prototipo,bike v1,151.51,178.69,218
+219,produto inacabado,bike v1,174.80,253.07,219
+220,produto final,top edition,40.11,322.68,220
+221,prototipo,top edition,293.55,391.89,221
+222,prototipo,bike v1,212.27,434.05,222
+223,prototipo,pepper edition,346.79,81.72,223
+224,produto inacabado,bike,225.08,123.77,224
+225,produto inacabado,ultra master blaster bike,29.71,164.31,225
+226,produto final,pepper edition,174.09,328.14,226
+227,prototipo,etc.,16.03,306.07,227
+228,produto inacabado,top edition,289.30,250.32,228
+229,prototipo,ultra master blaster bike,139.02,168.49,229
+230,produto final,top edition,344.65,21.69,230
+231,prototipo,top edition,239.95,220.99,231
+232,produto final,bike v1,21.29,370.99,232
+233,produto inacabado,ultra master blaster bike,336.70,58.72,233
+234,produto inacabado,etc.,66.88,90.74,234
+235,prototipo,ultra master blaster bike,253.75,193.17,235
+236,produto inacabado,ultra master blaster bike,44.92,33.44,236
+237,produto final,top edition,106.01,142.66,237
+238,produto final,bike v1,187.17,362.91,238
+239,produto final,bike v1,65.98,366.20,239
+240,prototipo,ultra master blaster bike,302.90,389.57,240
+241,produto inacabado,pepper edition,17.20,241.22,241
+242,prototipo,top edition,324.17,365.33,242
+243,produto inacabado,ultra master blaster bike,221.65,162.18,243
+244,prototipo,bike,271.66,280.71,244
+245,produto inacabado,bike v1,153.57,125.36,245
+246,produto inacabado,bike v1,348.70,180.69,246
+247,produto final,bike v1,79.52,289.17,247
+248,produto final,bike,326.37,384.80,248
+249,prototipo,pepper edition,131.42,220.98,249
+250,prototipo,pepper edition,111.19,425.69,250
+251,produto final,v2,313.31,204.79,251
+252,prototipo,etc.,250.82,208.01,252
+253,prototipo,bike v1,281.92,348.82,253
+254,produto final,bike v1,84.89,305.85,254
+255,prototipo,etc.,221.22,308.70,255
+256,prototipo,bike v1,51.47,33.21,256
+257,produto inacabado,bike,164.20,264.72,257
+258,produto final,ultra master blaster bike,222.99,101.97,258
+259,prototipo,ultra master blaster bike,263.82,28.62,259
+260,produto inacabado,ultra master blaster bike,286.84,176.39,260
+261,prototipo,bike v1,318.50,91.96,261
+262,prototipo,etc.,111.76,176.13,262
+263,produto final,v2,3.26,122.82,263
+264,produto inacabado,bike,266.12,106.44,264
+265,produto inacabado,pepper edition,346.95,147.21,265
+266,produto final,bike,332.27,39.83,266
+267,produto inacabado,bike v1,166.87,116.52,267
+268,produto final,top edition,119.62,402.85,268
+269,produto final,top edition,128.95,387.35,269
+270,produto final,pepper edition,343.47,191.32,270
+271,prototipo,v2,139.89,11.11,271
+272,produto inacabado,bike,54.09,411.99,272
+273,produto final,bike v1,80.63,439.08,273
+274,prototipo,ultra master blaster bike,207.71,298.22,274
+275,prototipo,bike v1,84.10,316.65,275
+276,produto inacabado,bike,328.46,336.64,276
+277,produto final,bike v1,334.61,276.76,277
+278,produto inacabado,ultra master blaster bike,100.71,15.75,278
+279,produto final,pepper edition,283.96,301.14,279
+280,produto final,etc.,276.60,114.79,280
+281,prototipo,bike v1,294.97,188.66,281
+282,prototipo,bike,153.00,177.03,282
+283,produto final,bike,27.23,76.56,283
+284,produto final,bike,94.25,431.86,284
+285,produto inacabado,ultra master blaster bike,188.41,144.30,285
+286,produto final,pepper edition,343.02,129.95,286
+287,produto final,bike v1,112.43,226.21,287
+288,produto final,bike v1,131.79,361.80,288
+289,prototipo,etc.,233.79,299.82,289
+290,produto final,bike v1,61.32,425.24,290
+291,produto final,ultra master blaster bike,335.11,410.92,291
+292,produto final,etc.,50.82,407.48,292
+293,prototipo,bike v1,125.44,248.80,293
+294,produto final,bike,317.67,229.49,294
+295,produto final,bike,124.69,341.26,295
+296,prototipo,etc.,235.03,84.53,296
+297,produto inacabado,v2,137.42,429.71,297
+298,produto final,pepper edition,13.00,428.52,298
+299,produto final,v2,247.59,422.53,299
+300,produto inacabado,pepper edition,47.23,234.15,300
+301,prototipo,etc.,64.46,280.19,301
+302,prototipo,pepper edition,246.28,74.76,302
+303,produto final,etc.,164.05,24.84,303
+304,produto final,bike,331.86,61.92,304
+305,produto final,top edition,5.31,365.43,305
+306,produto inacabado,bike v1,118.54,321.61,306
+307,produto final,bike v1,222.42,232.33,307
+308,prototipo,pepper edition,115.16,223.99,308
+309,prototipo,etc.,276.12,369.86,309
+310,produto final,bike v1,302.64,139.38,310
+311,produto final,v2,217.02,30.53,311
+312,produto final,pepper edition,346.08,105.06,312
+313,prototipo,bike,313.59,307.90,313
+314,prototipo,v2,194.61,163.48,314
+315,produto final,pepper edition,166.53,109.95,315
+316,produto inacabado,pepper edition,149.28,58.30,316
+317,produto inacabado,etc.,204.71,240.07,317
+318,produto inacabado,etc.,192.37,10.34,318
+319,produto inacabado,ultra master blaster bike,67.65,93.06,319
+320,prototipo,bike v1,315.96,394.77,320
+321,produto inacabado,bike v1,336.38,311.70,321
+322,produto inacabado,ultra master blaster bike,325.97,40.29,322
+323,prototipo,ultra master blaster bike,8.87,40.02,323
+324,prototipo,bike v1,68.11,118.18,324
+325,prototipo,pepper edition,14.26,127.20,325
+326,prototipo,bike v1,256.39,379.85,326
+327,produto final,v2,134.44,78.82,327
+328,prototipo,v2,96.26,141.25,328
+329,produto final,bike,49.92,421.63,329
+330,prototipo,etc.,303.91,149.08,330
+331,prototipo,ultra master blaster bike,197.66,138.64,331
+332,produto final,etc.,311.15,436.16,332
+333,produto final,bike,114.71,97.42,333
+334,produto final,top edition,154.96,64.13,334
+335,produto inacabado,etc.,18.18,197.68,335
+336,produto final,bike,76.11,362.84,336
+337,produto inacabado,v2,128.25,159.49,337
+338,produto final,v2,171.04,318.48,338
+339,produto inacabado,top edition,164.21,423.36,339
+340,produto inacabado,bike v1,34.76,38.37,340
+341,produto inacabado,v2,268.93,396.56,341
+342,prototipo,pepper edition,122.67,350.90,342
+343,prototipo,pepper edition,164.08,68.32,343
+344,produto final,pepper edition,20.67,97.43,344
+345,produto final,v2,258.95,298.20,345
+346,produto inacabado,top edition,42.36,419.28,346
+347,produto final,top edition,186.29,241.18,347
+348,prototipo,pepper edition,267.50,333.32,348
+349,produto final,v2,69.93,297.86,349
+350,produto inacabado,ultra master blaster bike,332.59,228.37,350
+351,produto inacabado,pepper edition,277.09,425.61,351
+352,produto inacabado,pepper edition,320.31,303.43,352
+353,produto inacabado,bike,327.49,12.52,353
+354,prototipo,bike,6.05,201.85,354
+355,produto final,bike v1,280.63,440.42,355
+356,produto final,ultra master blaster bike,208.49,366.35,356
+357,prototipo,top edition,136.13,351.51,357
+358,produto inacabado,bike v1,223.40,440.05,358
+359,produto inacabado,etc.,298.51,248.72,359
+360,produto inacabado,v2,49.29,395.21,360
+361,produto final,ultra master blaster bike,147.59,374.18,361
+362,produto inacabado,pepper edition,124.70,277.21,362
+363,prototipo,ultra master blaster bike,56.87,369.33,363
+364,produto final,etc.,297.02,36.49,364
+365,produto inacabado,pepper edition,186.80,99.88,365
+366,produto inacabado,ultra master blaster bike,157.13,144.07,366
+367,prototipo,pepper edition,327.74,339.70,367
+368,produto final,v2,337.20,103.48,368
+369,prototipo,v2,311.89,164.16,369
+370,produto inacabado,v2,99.62,443.64,370
+371,produto inacabado,etc.,129.00,235.29,371
+372,produto inacabado,etc.,79.26,114.40,372
+373,produto final,pepper edition,38.40,315.53,373
+374,produto inacabado,pepper edition,215.15,228.90,374
+375,prototipo,v2,214.48,177.15,375
+376,produto final,v2,167.28,40.44,376
+377,produto final,top edition,233.52,56.89,377
+378,produto final,etc.,211.75,191.02,378
+379,produto inacabado,bike,201.27,144.23,379
+380,produto final,etc.,119.62,142.68,380
+381,produto inacabado,ultra master blaster bike,339.56,54.72,381
+382,produto final,bike,16.52,173.03,382
+383,produto inacabado,bike,125.72,330.71,383
+384,prototipo,etc.,57.40,48.17,384
+385,produto final,etc.,76.95,138.77,385
+386,produto inacabado,pepper edition,234.46,441.95,386
+387,produto final,ultra master blaster bike,119.05,189.03,387
+388,produto inacabado,bike,96.76,396.92,388
+389,prototipo,pepper edition,130.29,107.07,389
+390,prototipo,etc.,332.20,162.03,390
+391,produto final,bike,107.10,324.04,391
+392,produto final,pepper edition,2.48,9.78,392
+393,produto inacabado,pepper edition,253.29,130.76,393
+394,produto final,v2,207.29,90.04,394
+395,prototipo,bike v1,83.96,179.52,395
+396,produto final,bike v1,254.03,371.60,396
+397,produto final,pepper edition,143.27,109.38,397
+398,prototipo,pepper edition,73.40,196.90,398
+399,produto final,v2,135.07,222.87,399
+400,produto inacabado,bike v1,46.11,358.03,400
+401,produto inacabado,etc.,119.37,448.86,401
+402,produto inacabado,bike v1,176.95,237.11,402
+403,produto final,pepper edition,339.57,273.89,403
+404,produto final,etc.,326.19,93.41,404
+405,produto final,pepper edition,238.29,65.30,405
+406,prototipo,ultra master blaster bike,191.40,66.97,406
+407,produto final,top edition,240.83,230.82,407
+408,produto final,top edition,231.41,53.47,408
+409,produto final,top edition,211.05,139.55,409
+410,produto inacabado,pepper edition,184.16,194.18,410
+411,prototipo,etc.,47.24,13.67,411
+412,produto inacabado,bike,199.99,174.79,412
+413,produto inacabado,top edition,267.91,130.52,413
+414,prototipo,bike,67.44,142.57,414
+415,prototipo,pepper edition,330.89,40.76,415
+416,prototipo,v2,132.32,209.77,416
+417,produto final,top edition,302.21,343.83,417
+418,prototipo,bike v1,216.06,323.82,418
+419,produto final,pepper edition,1.03,195.67,419
+420,produto final,v2,264.36,173.65,420
+421,produto inacabado,pepper edition,207.35,24.77,421
+422,produto inacabado,top edition,226.08,416.50,422
+423,prototipo,bike v1,313.20,434.02,423
+424,produto inacabado,bike,307.57,121.14,424
+425,prototipo,ultra master blaster bike,144.72,364.71,425
+426,prototipo,ultra master blaster bike,63.25,272.81,426
+427,produto inacabado,bike v1,324.46,193.15,427
+428,produto final,bike v1,30.35,254.62,428
+429,produto inacabado,bike,301.80,203.24,429
+430,prototipo,v2,248.03,260.48,430
+431,produto inacabado,bike,20.60,101.28,431
+432,produto inacabado,etc.,344.69,414.89,432
+433,produto final,v2,151.47,258.39,433
+434,produto inacabado,ultra master blaster bike,325.42,322.18,434
+435,produto final,etc.,326.38,12.77,435
+436,produto final,ultra master blaster bike,305.94,340.75,436
+437,prototipo,bike v1,61.72,434.96,437
+438,prototipo,bike,103.15,270.48,438
+439,produto final,pepper edition,278.08,325.72,439
+440,produto final,top edition,176.94,312.75,440
+441,produto inacabado,bike,3.62,173.97,441
+442,produto inacabado,bike v1,36.11,145.45,442
+443,prototipo,etc.,216.32,403.10,443
+444,prototipo,ultra master blaster bike,23.66,247.05,444
+445,produto final,ultra master blaster bike,72.97,447.79,445
+446,prototipo,ultra master blaster bike,203.66,9.85,446
+447,prototipo,v2,37.89,428.84,447
+448,produto inacabado,top edition,236.70,119.79,448
+449,prototipo,pepper edition,146.64,21.82,449
+450,prototipo,top edition,91.21,178.72,450
+451,produto inacabado,etc.,292.36,190.66,451
+452,produto inacabado,bike v1,242.40,326.91,452
+453,prototipo,ultra master blaster bike,141.99,308.77,453
+454,prototipo,ultra master blaster bike,87.15,255.91,454
+455,produto inacabado,top edition,124.94,132.13,455
+456,produto final,v2,1.54,9.88,456
+457,prototipo,v2,273.70,278.78,457
+458,produto final,etc.,122.40,228.91,458
+459,produto final,bike v1,345.60,178.72,459
+460,prototipo,bike,21.71,298.00,460
+461,produto inacabado,ultra master blaster bike,239.55,379.62,461
+462,produto final,ultra master blaster bike,221.81,436.73,462
+463,produto inacabado,ultra master blaster bike,140.52,49.27,463
+464,prototipo,v2,302.75,271.13,464
+465,produto inacabado,etc.,333.27,229.73,465
+466,produto inacabado,v2,52.78,408.98,466
+467,produto inacabado,etc.,104.09,91.63,467
+468,produto final,etc.,295.53,448.41,468
+469,prototipo,etc.,264.43,415.47,469
+470,prototipo,bike,201.73,153.27,470
+471,prototipo,bike v1,230.84,145.35,471
+472,produto inacabado,bike,200.89,240.89,472
+473,prototipo,bike,258.03,202.82,473
+474,produto final,pepper edition,45.95,350.76,474
+475,produto inacabado,bike,165.21,8.69,475
+476,produto final,ultra master blaster bike,252.64,313.22,476
+477,produto inacabado,bike,15.46,159.92,477
+478,prototipo,v2,278.47,357.36,478
+479,prototipo,pepper edition,48.05,438.78,479
+480,produto inacabado,bike,294.06,234.54,480
+481,prototipo,v2,327.81,150.52,481
+482,produto final,top edition,23.22,41.13,482
+483,produto inacabado,top edition,264.59,380.07,483
+484,produto final,pepper edition,202.94,437.17,484
+485,produto final,ultra master blaster bike,98.10,244.87,485
+486,produto final,bike v1,22.82,115.42,486
+487,prototipo,bike,205.36,185.64,487
+488,prototipo,etc.,89.35,59.96,488
+489,produto inacabado,pepper edition,248.24,246.03,489
+490,produto inacabado,bike v1,160.58,198.00,490
+491,produto final,bike v1,113.57,15.88,491
+492,produto final,bike v1,89.87,40.75,492
+493,produto final,ultra master blaster bike,226.80,187.05,493
+494,produto final,top edition,17.60,10.99,494
+495,prototipo,ultra master blaster bike,173.61,177.08,495
+496,produto final,etc.,70.41,3.20,496
+497,prototipo,bike v1,77.85,298.22,497
+498,produto inacabado,ultra master blaster bike,29.84,339.14,498
+499,produto final,v2,184.75,401.96,499
+500,produto inacabado,bike v1,188.94,104.72,500
+501,prototipo,bike,299.67,38.16,501
+502,prototipo,v2,218.85,23.73,502
+503,produto inacabado,ultra master blaster bike,62.89,95.47,503
+504,produto inacabado,top edition,276.45,414.32,504
+505,produto inacabado,v2,9.40,171.64,505
+506,prototipo,pepper edition,143.17,433.93,506
+507,produto final,top edition,86.59,95.78,507
+508,produto inacabado,bike v1,328.49,256.61,508
+509,produto final,bike v1,195.86,393.98,509
+510,prototipo,ultra master blaster bike,135.00,72.35,510
+511,prototipo,top edition,28.18,69.44,511
+512,produto final,ultra master blaster bike,159.39,115.78,512
+513,produto inacabado,pepper edition,204.66,38.21,513
+514,produto inacabado,bike,97.49,105.76,514
+515,produto final,bike v1,24.58,419.18,515
+516,produto final,bike v1,186.03,47.36,516
+517,produto final,ultra master blaster bike,227.77,420.95,517
+518,prototipo,bike,110.17,222.64,518
+519,produto inacabado,pepper edition,162.40,328.65,519
+520,prototipo,top edition,13.55,391.10,520
+521,prototipo,bike v1,70.68,251.82,521
+522,produto final,bike v1,177.24,40.88,522
+523,produto final,bike,254.51,167.86,523
+524,prototipo,pepper edition,91.97,254.20,524
+525,prototipo,v2,184.14,401.98,525
+526,prototipo,top edition,11.47,237.01,526
+527,produto final,v2,18.67,377.88,527
+528,produto final,bike v1,266.32,423.07,528
+529,produto inacabado,bike,192.13,342.91,529
+530,prototipo,ultra master blaster bike,250.54,363.94,530
+531,prototipo,bike,304.14,208.98,531
+532,produto inacabado,bike,265.61,212.53,532
+533,produto final,v2,54.80,71.56,533
+534,produto inacabado,v2,345.11,34.64,534
+535,produto final,bike,151.70,314.17,535
+536,produto inacabado,v2,61.19,398.17,536
+537,prototipo,etc.,30.75,437.13,537
+538,prototipo,bike v1,30.97,225.39,538
+539,produto inacabado,etc.,90.05,109.21,539
+540,produto final,bike v1,265.09,45.17,540
+541,produto final,bike,176.79,140.49,541
+542,produto inacabado,bike v1,77.18,334.18,542
+543,produto final,v2,56.48,441.85,543
+544,produto inacabado,v2,349.24,182.24,544
+545,produto inacabado,ultra master blaster bike,184.95,341.80,545
+546,produto final,pepper edition,84.19,435.71,546
+547,produto final,bike,93.52,221.69,547
+548,produto inacabado,v2,65.92,35.46,548
+549,produto inacabado,ultra master blaster bike,62.11,163.11,549
+550,prototipo,ultra master blaster bike,304.86,141.15,550
+551,prototipo,ultra master blaster bike,131.41,354.31,551
+552,produto final,bike,173.58,440.36,552
+553,produto final,bike,38.89,369.78,553
+554,produto final,top edition,49.43,267.78,554
+555,prototipo,bike,207.13,123.15,555
+556,prototipo,bike,112.29,133.58,556
+557,produto inacabado,bike v1,37.60,55.79,557
+558,produto final,pepper edition,211.03,85.94,558
+559,produto inacabado,v2,183.57,383.67,559
+560,produto final,bike v1,24.56,293.08,560
+561,prototipo,top edition,55.72,9.54,561
+562,produto inacabado,ultra master blaster bike,236.97,181.74,562
+563,produto final,bike v1,163.65,31.77,563
+564,produto inacabado,bike v1,24.23,200.64,564
+565,produto final,ultra master blaster bike,101.95,239.10,565
+566,prototipo,pepper edition,337.78,36.11,566
+567,produto inacabado,top edition,12.89,269.50,567
+568,prototipo,ultra master blaster bike,198.59,173.49,568
+569,produto inacabado,ultra master blaster bike,77.67,441.39,569
+570,produto final,top edition,316.50,240.79,570
+571,prototipo,v2,200.76,446.79,571
+572,produto final,bike,286.59,304.74,572
+573,produto inacabado,v2,77.76,27.40,573
+574,prototipo,etc.,341.79,178.97,574
+575,produto final,top edition,194.83,238.15,575
+576,produto inacabado,bike v1,54.79,250.28,576
+577,produto final,ultra master blaster bike,34.88,316.12,577
+578,produto final,pepper edition,169.20,234.63,578
+579,produto inacabado,bike v1,187.84,385.33,579
+580,prototipo,bike v1,22.27,120.84,580
+581,produto final,bike v1,233.03,325.49,581
+582,prototipo,etc.,349.29,161.04,582
+583,produto inacabado,bike v1,107.94,340.84,583
+584,prototipo,top edition,308.34,336.41,584
+585,produto inacabado,v2,90.54,408.31,585
+586,produto inacabado,v2,259.99,320.02,586
+587,produto inacabado,top edition,120.16,93.41,587
+588,prototipo,top edition,203.39,284.24,588
+589,produto inacabado,pepper edition,146.09,271.71,589
+590,prototipo,ultra master blaster bike,90.95,311.39,590
+591,prototipo,top edition,56.36,275.73,591
+592,prototipo,ultra master blaster bike,263.82,247.12,592
+593,produto final,etc.,169.71,83.59,593
+594,prototipo,top edition,212.46,118.77,594
+595,produto inacabado,bike,272.83,95.16,595
+596,produto inacabado,ultra master blaster bike,205.49,317.95,596
+597,prototipo,bike v1,177.10,183.09,597
+598,produto final,bike,61.18,313.03,598
+599,produto inacabado,top edition,115.28,16.96,599
+600,prototipo,ultra master blaster bike,102.93,447.49,600
+601,produto final,ultra master blaster bike,332.60,438.64,601
+602,produto inacabado,v2,265.92,102.95,602
+603,produto final,etc.,12.19,196.33,603
+604,produto final,pepper edition,248.49,117.73,604
+605,produto final,pepper edition,252.60,144.70,605
+606,produto inacabado,v2,84.65,285.10,606
+607,prototipo,ultra master blaster bike,125.32,421.99,607
+608,prototipo,ultra master blaster bike,53.19,362.96,608
+609,prototipo,pepper edition,148.75,402.59,609
+610,produto final,ultra master blaster bike,10.22,214.28,610
+611,produto inacabado,v2,29.74,81.09,611
+612,prototipo,pepper edition,47.55,289.39,612
+613,produto final,bike,17.68,72.30,613
+614,produto inacabado,ultra master blaster bike,6.19,359.59,614
+615,produto inacabado,bike v1,263.31,251.23,615
+616,produto final,v2,267.08,408.03,616
+617,produto final,etc.,333.66,132.83,617
+618,produto inacabado,etc.,190.41,410.07,618
+619,produto inacabado,ultra master blaster bike,36.17,216.23,619
+620,produto inacabado,etc.,78.69,173.79,620
+621,prototipo,etc.,135.48,171.75,621
+622,prototipo,bike v1,98.93,15.81,622
+623,produto final,bike v1,343.50,351.24,623
+624,prototipo,etc.,15.48,404.78,624
+625,prototipo,v2,296.64,425.68,625
+626,prototipo,bike,116.54,439.95,626
+627,prototipo,etc.,160.90,230.87,627
+628,produto final,bike,234.01,160.07,628
+629,prototipo,bike,60.56,86.80,629
+630,prototipo,v2,31.94,446.26,630
+631,produto final,ultra master blaster bike,47.07,301.78,631
+632,produto final,bike v1,102.04,420.56,632
+633,produto inacabado,top edition,70.40,221.40,633
+634,prototipo,bike,189.01,144.56,634
+635,produto inacabado,v2,342.25,244.91,635
+636,produto inacabado,bike v1,100.17,97.05,636
+637,prototipo,pepper edition,238.30,363.52,637
+638,produto inacabado,pepper edition,335.04,7.27,638
+639,prototipo,bike v1,49.12,321.56,639
+640,produto final,etc.,96.68,53.05,640
+641,produto inacabado,etc.,13.72,412.11,641
+642,produto inacabado,etc.,41.05,31.03,642
+643,prototipo,pepper edition,188.29,91.87,643
+644,prototipo,v2,43.76,156.66,644
+645,produto inacabado,bike,314.64,430.66,645
+646,produto inacabado,pepper edition,257.98,328.49,646
+647,produto inacabado,bike v1,218.71,253.55,647
+648,produto final,ultra master blaster bike,52.43,123.88,648
+649,produto inacabado,bike v1,243.89,142.51,649
+650,produto inacabado,ultra master blaster bike,37.88,85.88,650
+651,produto inacabado,pepper edition,329.13,399.73,651
+652,produto inacabado,pepper edition,114.15,70.57,652
+653,produto final,bike v1,259.58,295.81,653
+654,prototipo,top edition,70.09,149.05,654
+655,produto final,top edition,332.88,22.05,655
+656,produto inacabado,pepper edition,114.38,279.02,656
+657,prototipo,pepper edition,240.54,112.41,657
+658,produto final,bike,302.39,443.59,658
+659,produto final,top edition,23.45,394.90,659
+660,produto inacabado,bike,34.40,189.10,660
+661,produto inacabado,ultra master blaster bike,21.37,319.75,661
+662,produto inacabado,top edition,107.92,51.02,662
+663,prototipo,etc.,179.54,391.37,663
+664,produto inacabado,bike,279.26,376.67,664
+665,produto inacabado,pepper edition,128.21,346.12,665
+666,produto final,pepper edition,200.59,55.73,666
+667,prototipo,bike v1,95.60,380.14,667
+668,prototipo,top edition,147.86,177.59,668
+669,prototipo,pepper edition,207.31,208.16,669
+670,produto inacabado,etc.,52.61,107.43,670
+671,produto inacabado,bike,159.42,355.87,671
+672,produto final,v2,277.38,404.80,672
+673,produto final,v2,158.23,271.80,673
+674,produto final,pepper edition,148.42,153.81,674
+675,prototipo,pepper edition,206.22,339.49,675
+676,prototipo,bike v1,297.95,132.81,676
+677,produto inacabado,top edition,155.71,338.89,677
+678,produto inacabado,bike,327.55,281.23,678
+679,produto inacabado,bike v1,226.38,86.93,679
+680,produto inacabado,pepper edition,120.46,368.85,680
+681,prototipo,ultra master blaster bike,8.09,132.33,681
+682,produto final,ultra master blaster bike,236.17,296.05,682
+683,produto inacabado,ultra master blaster bike,96.06,124.60,683
+684,prototipo,etc.,276.62,85.68,684
+685,produto final,pepper edition,33.90,401.79,685
+686,prototipo,top edition,173.76,197.65,686
+687,produto inacabado,top edition,209.12,32.13,687
+688,produto inacabado,pepper edition,7.11,358.66,688
+689,prototipo,top edition,68.95,394.89,689
+690,produto inacabado,ultra master blaster bike,267.74,340.74,690
+691,produto final,pepper edition,164.53,365.12,691
+692,produto inacabado,v2,147.37,92.14,692
+693,prototipo,ultra master blaster bike,149.54,196.96,693
+694,produto inacabado,pepper edition,266.41,87.49,694
+695,prototipo,ultra master blaster bike,71.27,352.04,695
+696,produto final,etc.,197.52,318.97,696
+697,produto inacabado,bike,292.06,421.59,697
+698,prototipo,bike,162.01,161.85,698
+699,produto inacabado,bike v1,239.87,89.48,699
+700,produto final,pepper edition,216.21,345.05,700
+701,prototipo,v2,307.30,219.21,701
+702,produto final,ultra master blaster bike,155.95,114.03,702
+703,produto final,etc.,188.49,391.23,703
+704,produto inacabado,ultra master blaster bike,40.21,299.42,704
+705,produto final,v2,308.94,118.26,705
+706,prototipo,ultra master blaster bike,114.50,424.54,706
+707,produto inacabado,bike v1,263.50,425.24,707
+708,produto inacabado,ultra master blaster bike,51.56,28.55,708
+709,produto inacabado,bike v1,13.57,395.82,709
+710,produto final,v2,228.14,437.66,710
+711,produto inacabado,bike v1,92.18,28.73,711
+712,produto final,bike v1,11.83,344.03,712
+713,produto inacabado,top edition,240.00,30.32,713
+714,produto inacabado,ultra master blaster bike,171.35,28.54,714
+715,produto inacabado,v2,322.15,210.02,715
+716,produto final,pepper edition,86.79,329.27,716
+717,prototipo,etc.,101.64,317.59,717
+718,prototipo,pepper edition,138.64,30.09,718
+719,prototipo,etc.,182.64,390.22,719
+720,produto inacabado,v2,190.58,139.40,720
+721,produto final,bike,172.71,432.89,721
+722,produto inacabado,pepper edition,145.84,235.71,722
+723,produto final,etc.,271.65,127.57,723
+724,prototipo,v2,183.62,428.71,724
+725,produto inacabado,etc.,183.70,125.25,725
+726,produto final,v2,237.20,398.67,726
+727,prototipo,top edition,241.07,5.32,727
+728,produto inacabado,v2,123.67,232.52,728
+729,produto inacabado,ultra master blaster bike,69.07,101.17,729
+730,produto inacabado,etc.,226.28,18.31,730
+731,produto final,bike,209.59,177.71,731
+732,produto final,bike,6.87,281.39,732
+733,prototipo,bike,249.80,161.73,733
+734,prototipo,top edition,326.54,129.68,734
+735,prototipo,bike,61.26,4.06,735
+736,prototipo,v2,337.28,118.88,736
+737,produto inacabado,bike,228.76,147.23,737
+738,produto final,etc.,269.22,252.53,738
+739,prototipo,pepper edition,207.46,332.46,739
+740,produto final,pepper edition,25.82,319.83,740
+741,prototipo,v2,261.94,328.13,741
+742,produto inacabado,etc.,249.74,27.84,742
+743,produto inacabado,bike,25.33,234.37,743
+744,produto final,pepper edition,231.55,58.48,744
+745,produto inacabado,etc.,88.95,118.20,745
+746,produto inacabado,v2,215.62,261.94,746
+747,produto inacabado,top edition,41.64,75.52,747
+748,produto inacabado,top edition,181.97,424.51,748
+749,produto final,bike v1,191.31,316.27,749
+750,produto final,pepper edition,9.97,427.51,750
+751,produto inacabado,top edition,103.86,30.67,751
+752,produto inacabado,ultra master blaster bike,232.57,291.05,752
+753,produto inacabado,ultra master blaster bike,98.81,164.92,753
+754,produto inacabado,bike,158.52,225.90,754
+755,produto inacabado,bike v1,163.15,423.89,755
+756,produto final,bike,279.60,253.30,756
+757,produto final,bike v1,39.07,155.88,757
+758,produto inacabado,v2,102.34,153.99,758
+759,prototipo,bike v1,292.47,183.97,759
+760,produto inacabado,pepper edition,290.69,135.93,760
+761,produto final,top edition,120.67,263.02,761
+762,produto inacabado,pepper edition,10.17,224.39,762
+763,prototipo,ultra master blaster bike,319.58,197.49,763
+764,prototipo,ultra master blaster bike,129.39,100.59,764
+765,produto final,bike v1,210.52,81.87,765
+766,produto inacabado,v2,158.57,251.55,766
+767,produto final,etc.,302.75,52.81,767
+768,prototipo,bike v1,132.30,181.61,768
+769,produto final,v2,113.44,244.51,769
+770,produto inacabado,top edition,206.05,115.86,770
+771,produto final,etc.,128.34,165.09,771
+772,prototipo,top edition,202.80,21.18,772
+773,prototipo,top edition,58.06,322.98,773
+774,produto inacabado,etc.,162.85,227.43,774
+775,produto final,ultra master blaster bike,108.51,149.96,775
+776,prototipo,bike v1,188.21,208.22,776
+777,produto final,bike,342.55,354.13,777
+778,produto inacabado,top edition,133.53,259.56,778
+779,prototipo,bike,46.04,449.17,779
+780,produto inacabado,top edition,29.97,7.07,780
+781,prototipo,etc.,30.24,154.72,781
+782,produto inacabado,v2,179.79,397.65,782
+783,prototipo,ultra master blaster bike,61.45,55.08,783
+784,produto final,ultra master blaster bike,50.60,328.09,784
+785,produto final,bike,81.13,361.10,785
+786,prototipo,bike,239.83,191.80,786
+787,produto final,top edition,278.41,379.20,787
+788,prototipo,top edition,70.12,308.62,788
+789,prototipo,etc.,79.11,26.99,789
+790,produto final,bike,337.53,58.85,790
+791,produto final,bike,348.91,105.36,791
+792,produto final,pepper edition,339.30,423.44,792
+793,prototipo,ultra master blaster bike,160.93,123.18,793
+794,produto final,bike v1,164.89,246.76,794
+795,produto final,pepper edition,141.75,206.62,795
+796,produto final,bike v1,235.69,396.74,796
+797,produto inacabado,etc.,36.70,226.69,797
+798,prototipo,v2,110.82,322.33,798
+799,produto final,v2,149.18,92.15,799
+800,prototipo,bike v1,162.83,23.65,800
+801,produto inacabado,top edition,208.79,39.55,801
+802,produto final,top edition,218.47,422.84,802
+803,produto inacabado,bike v1,238.11,93.79,803
+804,produto inacabado,ultra master blaster bike,170.00,58.01,804
+805,produto final,pepper edition,210.18,352.26,805
+806,produto inacabado,etc.,212.84,228.42,806
+807,prototipo,ultra master blaster bike,317.52,155.87,807
+808,prototipo,bike,186.36,411.84,808
+809,produto inacabado,ultra master blaster bike,155.84,366.66,809
+810,produto final,v2,155.41,320.60,810
+811,prototipo,v2,153.34,118.90,811
+812,produto final,bike v1,192.65,188.93,812
+813,produto inacabado,bike,88.03,119.99,813
+814,prototipo,ultra master blaster bike,86.57,168.22,814
+815,produto final,pepper edition,345.57,387.54,815
+816,produto inacabado,bike,227.34,434.01,816
+817,prototipo,bike,32.68,386.88,817
+818,produto final,bike v1,99.91,310.35,818
+819,prototipo,pepper edition,259.98,63.90,819
+820,produto inacabado,bike,169.06,238.39,820
+821,prototipo,pepper edition,15.08,235.78,821
+822,prototipo,top edition,44.86,134.17,822
+823,produto inacabado,v2,292.45,285.19,823
+824,prototipo,v2,217.73,66.87,824
+825,prototipo,bike v1,60.42,408.25,825
+826,produto final,etc.,51.27,429.23,826
+827,prototipo,pepper edition,288.89,415.38,827
+828,produto inacabado,bike,186.25,350.88,828
+829,produto inacabado,top edition,13.50,92.17,829
+830,produto final,etc.,111.21,340.05,830
+831,prototipo,bike,275.42,215.67,831
+832,prototipo,pepper edition,2.74,243.32,832
+833,produto final,etc.,24.96,351.12,833
+834,produto inacabado,bike,68.10,200.98,834
+835,produto inacabado,etc.,149.13,17.32,835
+836,produto inacabado,v2,181.71,165.94,836
+837,produto inacabado,bike,222.57,407.66,837
+838,prototipo,top edition,64.05,207.69,838
+839,produto inacabado,bike v1,140.18,433.69,839
+840,produto inacabado,bike v1,37.20,413.76,840
+841,prototipo,v2,290.49,272.09,841
+842,produto inacabado,v2,6.01,77.44,842
+843,produto final,etc.,140.98,225.93,843
+844,produto inacabado,bike,149.06,58.41,844
+845,produto inacabado,bike v1,227.79,273.28,845
+846,prototipo,v2,11.38,372.39,846
+847,prototipo,v2,258.36,330.58,847
+848,produto final,bike v1,315.52,84.39,848
+849,prototipo,v2,228.79,63.12,849
+850,produto final,etc.,102.35,51.66,850
+851,prototipo,bike,34.32,371.88,851
+852,produto inacabado,bike,311.09,158.85,852
+853,produto final,pepper edition,69.28,360.74,853
+854,produto inacabado,top edition,251.79,371.09,854
+855,prototipo,bike,65.83,434.35,855
+856,prototipo,v2,278.17,31.75,856
+857,produto inacabado,pepper edition,169.53,355.77,857
+858,produto inacabado,bike v1,142.36,354.82,858
+859,produto final,top edition,49.24,13.15,859
+860,produto final,v2,332.19,267.67,860
+861,produto inacabado,ultra master blaster bike,229.60,227.70,861
+862,produto final,top edition,196.89,359.63,862
+863,produto final,v2,65.39,355.50,863
+864,produto inacabado,top edition,52.83,348.86,864
+865,produto inacabado,bike v1,305.91,425.84,865
+866,produto inacabado,ultra master blaster bike,325.72,51.24,866
+867,produto inacabado,ultra master blaster bike,215.73,143.37,867
+868,produto final,pepper edition,124.59,435.20,868
+869,prototipo,etc.,120.69,344.96,869
+870,produto final,pepper edition,177.39,151.28,870
+871,produto final,bike v1,132.34,56.48,871
+872,produto final,top edition,55.62,304.25,872
+873,prototipo,etc.,172.12,37.28,873
+874,produto inacabado,bike v1,78.66,132.16,874
+875,prototipo,pepper edition,96.82,429.06,875
+876,produto final,etc.,216.98,248.67,876
+877,produto inacabado,etc.,336.32,185.38,877
+878,produto inacabado,etc.,152.25,146.52,878
+879,produto inacabado,bike,185.74,12.50,879
+880,produto inacabado,bike,93.44,216.74,880
+881,prototipo,bike v1,151.37,117.14,881
+882,produto inacabado,pepper edition,236.04,345.03,882
+883,produto inacabado,etc.,201.51,436.49,883
+884,produto final,bike,21.72,145.61,884
+885,produto final,v2,143.33,278.54,885
+886,prototipo,bike,194.70,153.75,886
+887,produto inacabado,bike v1,123.66,398.26,887
+888,produto final,top edition,222.59,160.31,888
+889,produto final,ultra master blaster bike,172.26,235.88,889
+890,prototipo,etc.,6.25,13.57,890
+891,prototipo,top edition,154.71,314.27,891
+892,produto final,top edition,198.31,448.83,892
+893,produto inacabado,top edition,54.20,280.12,893
+894,produto final,pepper edition,136.77,233.35,894
+895,prototipo,v2,225.47,406.23,895
+896,prototipo,pepper edition,209.02,318.86,896
+897,prototipo,bike,213.59,21.13,897
+898,produto final,ultra master blaster bike,139.27,381.44,898
+899,prototipo,bike v1,198.46,156.15,899
+900,produto inacabado,etc.,9.87,205.04,900
+901,produto final,bike v1,266.81,202.12,901
+902,produto final,bike,161.12,323.46,902
+903,produto final,top edition,258.37,173.85,903
+904,prototipo,ultra master blaster bike,315.15,226.67,904
+905,prototipo,v2,58.63,432.92,905
+906,prototipo,ultra master blaster bike,141.35,244.25,906
+907,prototipo,top edition,282.99,315.90,907
+908,prototipo,bike v1,330.88,233.34,908
+909,produto inacabado,v2,229.76,87.08,909
+910,produto inacabado,v2,18.23,199.30,910
+911,produto inacabado,bike,72.09,95.31,911
+912,prototipo,ultra master blaster bike,64.90,80.61,912
+913,produto inacabado,pepper edition,346.42,438.39,913
+914,produto inacabado,ultra master blaster bike,229.84,165.77,914
+915,prototipo,ultra master blaster bike,105.08,273.46,915
+916,produto inacabado,etc.,69.39,182.74,916
+917,prototipo,ultra master blaster bike,340.77,376.98,917
+918,produto final,top edition,266.65,253.40,918
+919,produto final,top edition,106.95,364.03,919
+920,produto inacabado,etc.,306.59,390.15,920
+921,produto inacabado,pepper edition,227.45,57.63,921
+922,produto inacabado,top edition,178.72,376.44,922
+923,produto inacabado,pepper edition,234.30,161.97,923
+924,produto final,top edition,121.80,310.98,924
+925,prototipo,bike v1,315.87,358.93,925
+926,prototipo,bike v1,349.19,164.41,926
+927,produto final,etc.,39.73,52.86,927
+928,produto inacabado,top edition,196.71,9.92,928
+929,produto final,v2,304.03,35.31,929
+930,prototipo,bike v1,254.64,344.31,930
+931,produto final,pepper edition,247.33,255.43,931
+932,produto final,pepper edition,176.77,64.54,932
+933,produto final,pepper edition,274.89,140.46,933
+934,prototipo,bike v1,338.62,243.86,934
+935,prototipo,etc.,342.22,409.28,935
+936,produto final,bike,231.11,222.09,936
+937,prototipo,v2,88.23,217.56,937
+938,produto inacabado,etc.,111.19,135.07,938
+939,produto final,ultra master blaster bike,227.44,4.46,939
+940,prototipo,etc.,237.77,57.67,940
+941,prototipo,v2,60.64,201.90,941
+942,produto inacabado,bike v1,65.98,141.30,942
+943,produto inacabado,etc.,276.74,5.14,943
+944,prototipo,bike v1,70.47,331.43,944
+945,produto final,etc.,55.23,154.15,945
+946,prototipo,v2,244.67,449.97,946
+947,produto final,pepper edition,150.52,316.81,947
+948,prototipo,top edition,21.12,287.74,948
+949,produto final,top edition,228.00,17.98,949
+950,produto inacabado,pepper edition,48.47,358.41,950
+951,produto final,etc.,314.76,42.98,951
+952,produto inacabado,bike v1,257.17,31.93,952
+953,produto final,v2,249.89,362.71,953
+954,prototipo,ultra master blaster bike,131.22,382.67,954
+955,produto inacabado,ultra master blaster bike,96.59,115.93,955
+956,produto inacabado,bike,342.37,361.80,956
+957,produto final,bike,291.18,61.61,957
+958,produto inacabado,bike,133.98,345.26,958
+959,produto inacabado,bike v1,252.51,379.68,959
+960,produto final,bike,109.16,413.55,960
+961,produto inacabado,pepper edition,11.72,354.67,961
+962,produto inacabado,bike v1,335.17,351.06,962
+963,produto final,v2,13.16,170.62,963
+964,produto inacabado,bike,196.97,68.34,964
+965,prototipo,ultra master blaster bike,158.81,356.34,965
+966,produto final,bike,213.29,164.96,966
+967,produto final,bike v1,314.32,271.26,967
+968,produto inacabado,top edition,241.38,211.75,968
+969,produto inacabado,v2,268.24,22.85,969
+970,prototipo,top edition,232.39,236.44,970
+971,produto inacabado,top edition,179.72,299.87,971
+972,produto inacabado,bike v1,127.86,96.62,972
+973,prototipo,ultra master blaster bike,243.50,39.54,973
+974,produto final,bike,207.22,201.36,974
+975,prototipo,ultra master blaster bike,139.47,219.92,975
+976,produto final,top edition,52.90,100.95,976
+977,produto final,v2,31.68,218.92,977
+978,produto final,v2,140.62,229.16,978
+979,produto final,etc.,248.48,359.64,979
+980,produto final,pepper edition,15.10,188.05,980
+981,produto inacabado,v2,211.38,50.22,981
+982,prototipo,pepper edition,21.23,392.00,982
+983,produto final,ultra master blaster bike,129.68,211.67,983
+984,produto final,bike v1,288.61,394.19,984
+985,prototipo,pepper edition,225.91,105.48,985
+986,produto final,top edition,7.87,118.43,986
+987,produto final,pepper edition,139.09,351.28,987
+988,produto final,pepper edition,257.05,234.50,988
+989,prototipo,etc.,144.99,257.17,989
+990,produto final,etc.,303.05,227.57,990
+991,produto final,ultra master blaster bike,298.49,400.18,991
+992,prototipo,pepper edition,193.78,93.06,992
+993,produto inacabado,ultra master blaster bike,49.50,332.79,993
+994,produto inacabado,bike,317.40,310.99,994
+995,produto final,etc.,340.11,121.45,995
+996,produto inacabado,pepper edition,107.91,184.28,996
+997,produto final,top edition,89.86,17.76,997
+998,produto inacabado,etc.,130.23,98.76,998
+999,prototipo,v2,221.45,418.69,999
+1000,produto final,v2,54.64,379.87,1000
