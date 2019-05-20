@@ -1,3 +1,5 @@
+DROP DATABASE YELLOCLETA;
+
 CREATE DATABASE YELLOCLETA;
 
 USE YELLOCLETA; 
@@ -10,22 +12,21 @@ CREATE TABLE [EST_ESTOQUE]
 	[EST_QTD]            integer  NULL ,
 	[FUN_ID_COLOCOU]     integer  NULL ,
 	[FUN_ID_RETIROU]     integer  NULL ,
-	[MAT_ID]             integer  NOT NULL 
 )
 go
 
 ALTER TABLE [EST_ESTOQUE]
-	ADD CONSTRAINT [XPKEST_ESTOQUE] PRIMARY KEY  CLUSTERED ([EST_ID] ASC,[PRO_ID] ASC,[MAT_ID] ASC,[LOC_ID] ASC)
+	ADD CONSTRAINT [XPKEST_ESTOQUE] PRIMARY KEY  CLUSTERED ([EST_ID] ASC,[PRO_ID] ASC,[LOC_ID] ASC)
 go
 
 CREATE TABLE [FUN_FUNCIONARIO]
 ( 
 	[FUN_ID]             integer  NOT NULL  IDENTITY ,
-	[FUN_MATRICULA]      char(18)  NULL ,
-	[FUN_NOME]           char(18)  NULL ,
+	[FUN_MATRICULA]      char(50)  NULL ,
+	[FUN_NOME]           char(50)  NULL ,
 	[FUN_SALARIO]        float  NULL ,
-	[FUN_SETOR]          char(18)  NULL ,
-	[FUN_CARGO]          char(18)  NULL 
+	[FUN_SETOR]          char(50)  NULL ,
+	[FUN_CARGO]          char(50)  NULL 
 )
 go
 
@@ -36,10 +37,10 @@ go
 CREATE TABLE [LOC_LOCAL]
 ( 
 	[LOC_ID]             integer  NOT NULL  IDENTITY ,
-	[LOC_ZONA]           char(18)  NULL ,
-	[LOC_ESTANTE]        char(18)  NULL ,
-	[LOC_PRATELEIRA]     char(18)  NULL ,
-	[LOC_GAVETA]         char(18)  NULL 
+	[LOC_ZONA]           char(50)  NULL ,
+	[LOC_ESTANTE]        char(50)  NULL ,
+	[LOC_PRATELEIRA]     char(50)  NULL ,
+	[LOC_GAVETA]         char(50)  NULL 
 )
 go
 
@@ -50,8 +51,8 @@ go
 CREATE TABLE [MAT_MATERIA_PRIMA]
 ( 
 	[MAT_ID]             integer  NOT NULL  IDENTITY ,
-	[MAT_NOME]           char(18)  NULL ,
-	[MAT_QUALIDADE]      char(18)  NULL 
+	[MAT_NOME]           char(50)  NULL ,
+	[MAT_QUALIDADE]      char(50)  NULL 
 )
 go
 
@@ -62,8 +63,8 @@ go
 CREATE TABLE [PRO_PRODUTO]
 ( 
 	[PRO_ID]             integer  NOT NULL  IDENTITY ,
-	[PRO_TIPO]           char(18)  NULL ,
-	[PRO_NOME]           char(18)  NULL ,
+	[PRO_TIPO]           char(50)  NULL ,
+	[PRO_NOME]           char(50)  NULL ,
 	[PRO_CUSTO]          float  NULL ,
 	[PRO_VALOR]          float  NULL ,
 	[MAT_ID]             integer  NOT NULL 
@@ -76,7 +77,7 @@ go
 
 
 ALTER TABLE [EST_ESTOQUE]
-	ADD CONSTRAINT [R_2] FOREIGN KEY ([PRO_ID],[MAT_ID]) REFERENCES [PRO_PRODUTO]([PRO_ID],[MAT_ID])
+	ADD CONSTRAINT [R_2] FOREIGN KEY ([PRO_ID]) REFERENCES [PRO_PRODUTO]([PRO_ID])
 		ON DELETE NO ACTION
 		ON UPDATE NO ACTION
 go
