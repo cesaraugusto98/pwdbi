@@ -1,0 +1,155 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="eaa5ef21-41fc-4263-ada6-dd79c7c4faab" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>FUN FUNCIONARIO</ID>
+  <Name>FUN FUNCIONARIO</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="409a7272-ca66-480c-8e6b-e5e489347bce">
+    <DataSourceViewID>vwYELLOCLETA</DataSourceViewID>
+  </Source>
+  <UnknownMember>Visible</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="f04ee2c5-ac37-4136-a635-5628eef8ad43">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="d8898937-f19f-46df-a7c2-3ac58b09c471">
+      <ID>FUN ID</ID>
+      <Name>FUN ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4c7f1ba0-33f8-402d-80e9-68fe87565301">
+          <DataType>Integer</DataType>
+          <NullProcessing>UnknownMember</NullProcessing>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1a852526-6f25-443e-b449-0c8362d3ae5c">
+            <TableID>dbo_FUN_FUNCIONARIO</TableID>
+            <ColumnID>FUN_ID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="e9f60767-09a0-46c9-b52b-b63696a67f73">
+          <AttributeID>FUN NOME</AttributeID>
+          <Name>FUN NOME</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="3ccb2ae5-43d5-40bc-9dda-fe4f0e1d2354">
+          <AttributeID>FUN SALARIO</AttributeID>
+          <Name>FUN SALARIO</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="8232d6bd-3eb4-419f-ba02-ed1047d73455">
+          <AttributeID>FUN SETOR</AttributeID>
+          <Name>FUN SETOR</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="c5e91e1b-8e09-46ac-aa8b-40263ffc57fc">
+          <AttributeID>FUN CARGO</AttributeID>
+          <Name>FUN CARGO</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ffafaaed-20ed-43ec-96e5-fed50012d43a">
+      <ID>FUN NOME</ID>
+      <Name>FUN NOME</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ecc514fe-907f-4c0f-9489-ca59ca34a17d">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f7c02e40-9538-49e9-9b39-d3a8fd00aa87">
+            <TableID>dbo_FUN_FUNCIONARIO</TableID>
+            <ColumnID>FUN_NOME</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d4cba5eb-b3f1-405f-8cbe-34dbe48b8dc1">
+      <ID>FUN SALARIO</ID>
+      <Name>FUN SALARIO</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ccda5ebd-7ba9-421c-965b-09cbfcc9d21a">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="23cbdf5b-6883-4114-9c13-b6dbcba945a2">
+            <TableID>dbo_FUN_FUNCIONARIO</TableID>
+            <ColumnID>FUN_SALARIO</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="98b4dc11-2158-4033-879c-7444dff659c3">
+      <ID>FUN SETOR</ID>
+      <Name>FUN SETOR</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="35ed8fef-a6b1-4a3e-9cd6-cd299b313acb">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="91062e2f-c905-4da8-8c33-76502a23a46d">
+            <TableID>dbo_FUN_FUNCIONARIO</TableID>
+            <ColumnID>FUN_SETOR</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="27335eae-79b5-4801-97f2-d9384b0c81c4">
+      <ID>FUN CARGO</ID>
+      <Name>FUN CARGO</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f7779354-27fa-40b8-8ab4-27b82e781a1e">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1bc7f6ca-d5cc-4fc8-b50d-815e579d0582">
+            <TableID>dbo_FUN_FUNCIONARIO</TableID>
+            <ColumnID>FUN_CARGO</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+    </Attribute>
+  </Attributes>
+</Dimension>
