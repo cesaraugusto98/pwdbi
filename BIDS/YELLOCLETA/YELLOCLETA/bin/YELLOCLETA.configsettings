@@ -5,18 +5,14 @@
         <ID>dbYELLOCLETA</ID>
         <ConnectionString>Provider=SQLNCLI10.1;Data Source=LAB40508;Integrated Security=SSPI;Initial Catalog=YELLOCLETA</ConnectionString>
         <ImpersonationInfo>
-          <ImpersonationMode>ImpersonateAccount</ImpersonationMode>
-          <Account>cesar.santos</Account>
-          <ImpersonationInfoSecurity>PasswordRemoved</ImpersonationInfoSecurity>
+          <ImpersonationMode>ImpersonateCurrentUser</ImpersonationMode>
+          <ImpersonationInfoSecurity>Unchanged</ImpersonationInfoSecurity>
         </ImpersonationInfo>
       </DataSource>
     </DataSources>
     <Dimensions>
       <Dimension>
         <ID>DIM_HORA</ID>
-      </Dimension>
-      <Dimension>
-        <ID>FUN FUNCIONARIO</ID>
       </Dimension>
     </Dimensions>
     <DataSourceImpersonationInfo>

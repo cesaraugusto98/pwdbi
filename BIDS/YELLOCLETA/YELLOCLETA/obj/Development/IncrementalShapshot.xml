@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -19,7 +19,7 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>zobHFYuQe1UOEaUuAgeSiQ==24/05/2019 22:38:5724/05/2019 22:00:00</TimeStamp>
+        <TimeStamp>14xkgbUMWmKR9Rp4reFonw==27/05/2019 19:21:2024/05/2019 22:00:00</TimeStamp>
         <ID>
           <String>dbYELLOCLETA</String>
         </ID>
@@ -38,13 +38,6 @@
           <String>DIM_HORA</String>
         </ID>
       </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>3cz5qgsTzSta4Fe11AyJHQ==24/05/2019 22:42:0624/05/2019 22:40:52</TimeStamp>
-        <ID>
-          <String>FUN FUNCIONARIO</String>
-        </ID>
-      </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
@@ -56,6 +49,6 @@
     <Granularity>Coarse</Granularity>
   </Snapshot>
   <AssemblyLocations />
-  <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-05-25T01:42:06.706667Z</LastDeployed>
+  <ProcessingComplete>false</ProcessingComplete>
+  <LastDeployed>2019-05-27T22:25:22.723333Z</LastDeployed>
 </DeploymentSnapshot>

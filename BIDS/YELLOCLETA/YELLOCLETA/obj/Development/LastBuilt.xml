@@ -1,46 +1,4 @@
 ﻿<Infos>
-  <Item name="DIM_HORA.dim">
-    <Time>636943341584311363</Time>
-    <Hash length="16">
-      <b>160</b>
-      <b>21</b>
-      <b>38</b>
-      <b>2</b>
-      <b>252</b>
-      <b>128</b>
-      <b>57</b>
-      <b>101</b>
-      <b>251</b>
-      <b>227</b>
-      <b>156</b>
-      <b>11</b>
-      <b>202</b>
-      <b>25</b>
-      <b>37</b>
-      <b>134</b>
-    </Hash>
-  </Item>
-  <Item name="FUN FUNCIONARIO 1.dim">
-    <Time>636943345262781759</Time>
-    <Hash length="16">
-      <b>221</b>
-      <b>204</b>
-      <b>249</b>
-      <b>170</b>
-      <b>11</b>
-      <b>19</b>
-      <b>205</b>
-      <b>43</b>
-      <b>90</b>
-      <b>224</b>
-      <b>87</b>
-      <b>181</b>
-      <b>212</b>
-      <b>12</b>
-      <b>137</b>
-      <b>29</b>
-    </Hash>
-  </Item>
   <Item name="YELLOCLETA.database">
     <Time>636943341521097747</Time>
     <Hash length="16">
@@ -62,6 +20,48 @@
       <b>143</b>
     </Hash>
   </Item>
+  <Item name="DIM_HORA.dim">
+    <Time>636943341584311363</Time>
+    <Hash length="16">
+      <b>160</b>
+      <b>21</b>
+      <b>38</b>
+      <b>2</b>
+      <b>252</b>
+      <b>128</b>
+      <b>57</b>
+      <b>101</b>
+      <b>251</b>
+      <b>227</b>
+      <b>156</b>
+      <b>11</b>
+      <b>202</b>
+      <b>25</b>
+      <b>37</b>
+      <b>134</b>
+    </Hash>
+  </Item>
+  <Item name="dbYELLOCLETA.ds">
+    <Time>636945816805754674</Time>
+    <Hash length="16">
+      <b>215</b>
+      <b>140</b>
+      <b>100</b>
+      <b>129</b>
+      <b>181</b>
+      <b>12</b>
+      <b>90</b>
+      <b>98</b>
+      <b>145</b>
+      <b>245</b>
+      <b>26</b>
+      <b>120</b>
+      <b>173</b>
+      <b>225</b>
+      <b>104</b>
+      <b>159</b>
+    </Hash>
+  </Item>
   <Item name="vwYELLOCLETA.dsv">
     <Time>636943341519417651</Time>
     <Hash length="16">
@@ -81,27 +81,6 @@
       <b>117</b>
       <b>193</b>
       <b>46</b>
-    </Hash>
-  </Item>
-  <Item name="dbYELLOCLETA.ds">
-    <Time>636943343371533586</Time>
-    <Hash length="16">
-      <b>206</b>
-      <b>134</b>
-      <b>199</b>
-      <b>21</b>
-      <b>139</b>
-      <b>144</b>
-      <b>123</b>
-      <b>85</b>
-      <b>14</b>
-      <b>17</b>
-      <b>165</b>
-      <b>46</b>
-      <b>2</b>
-      <b>7</b>
-      <b>146</b>
-      <b>137</b>
     </Hash>
   </Item>
 </Infos>

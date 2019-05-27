@@ -11,10 +11,6 @@
       <Name>DIM_HORA.dim</Name>
       <FullPath>DIM_HORA.dim</FullPath>
     </ProjectItem>
-    <ProjectItem>
-      <Name>FUN FUNCIONARIO 1.dim</Name>
-      <FullPath>FUN FUNCIONARIO 1.dim</FullPath>
-    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
